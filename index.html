@@ -236,8 +236,10 @@
                         <h1 class="heading wow fadeInUp" data-wow-duration="500ms" data-wow-delay="300ms"><span>CONTACT US</span></h1>
                         <br>
                         <form name="contact" method="POST" data-netlify="true" data-netlify-honeypot="bot-field">
+                            <input type="hidden" name="form-name" value="contact"/>
+                            <p hidden><label>Don’t fill this out:<input name="bot-field"/></label></p>
                             <div class="form-group wow fadeInDown" data-wow-duration="500ms" data-wow-delay="600ms">
-                                <input type="text" name="name" class="form-control" id="exampleInputEmail1" placeholder="Write your full name here...">
+                                <input type="text" name="name" class="form-control" placeholder="Write your full name here...">
                             </div>
                             <div class="form-group wow fadeInDown" data-wow-duration="500ms" data-wow-delay="800ms">
                                 <input type="email" name="email" class="form-control" placeholder="Write your email address here...">
