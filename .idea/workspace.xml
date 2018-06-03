@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3ac35bab-2b63-4d4a-b79d-44081583b7ec" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -20,11 +21,11 @@
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="360">
-              <caret line="277" column="137" lean-forward="false" selection-start-line="277" selection-start-column="137" selection-end-line="277" selection-end-column="137" />
+              <caret line="277" column="100" lean-forward="false" selection-start-line="277" selection-start-column="100" selection-end-line="277" selection-end-column="100" />
               <folding>
-                <marker date="1528070100994" expanded="true" signature="6526:6624" ph="..." />
-                <marker date="1528070100994" expanded="true" signature="7081:7213" ph="..." />
-                <marker date="1528070100994" expanded="true" signature="13277:14217" ph="..." />
+                <marker date="1528070180009" expanded="true" signature="6526:6624" ph="..." />
+                <marker date="1528070180009" expanded="true" signature="7081:7213" ph="..." />
+                <marker date="1528070180009" expanded="true" signature="13277:14217" ph="..." />
               </folding>
             </state>
           </provider>
@@ -171,12 +172,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1527897774428</updated>
-      <workItem from="1527897775642" duration="15100000" />
+      <workItem from="1527897775642" duration="15178000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15100000" />
+    <option name="totallyTimeSpent" value="15178000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="8" y="27" width="1409" height="860" extended-state="0" />
@@ -316,11 +317,11 @@
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
-          <caret line="277" column="137" lean-forward="false" selection-start-line="277" selection-start-column="137" selection-end-line="277" selection-end-column="137" />
+          <caret line="277" column="100" lean-forward="false" selection-start-line="277" selection-start-column="100" selection-end-line="277" selection-end-column="100" />
           <folding>
-            <marker date="1528070100994" expanded="true" signature="6526:6624" ph="..." />
-            <marker date="1528070100994" expanded="true" signature="7081:7213" ph="..." />
-            <marker date="1528070100994" expanded="true" signature="13277:14217" ph="..." />
+            <marker date="1528070180009" expanded="true" signature="6526:6624" ph="..." />
+            <marker date="1528070180009" expanded="true" signature="7081:7213" ph="..." />
+            <marker date="1528070180009" expanded="true" signature="13277:14217" ph="..." />
           </folding>
         </state>
       </provider>
