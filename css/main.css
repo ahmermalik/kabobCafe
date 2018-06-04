@@ -704,3 +704,8 @@ nav .block .navbar-default .navbar-nav > .active > a:hover:before {
   height:100px;
   width: 100px;
 }
+
+
+.card-columns {
+  column-count: 3;
+}
