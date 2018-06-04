@@ -79,13 +79,36 @@ a:active {
   font-weight: 600;
 }
 .heading:before {
+   content: "";
+   position: absolute;
+   left: 50%;
+   bottom: 0;
+   width: 140px;
+   height: 1px;
+   background: #C8C1B3;
+   margin-left: -70px;
+ }
+
+.heading2 {
+  text-align: center;
+  font-weight: 500;
+  color: #2E2E2E;
+  padding: 5px 0px;
+  position: relative;
+}
+.heading2 span {
+  font-size: 45px;
+  color: #ff530a;
+  font-weight: 600;
+}
+
+.heading2:before {
   content: "";
   position: absolute;
   left: 50%;
   bottom: 0;
   width: 140px;
   height: 1px;
-  background: #C8C1B3;
   margin-left: -70px;
 }
 /*--
