@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3ac35bab-2b63-4d4a-b79d-44081583b7ec" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fullmenu.html" afterPath="$PROJECT_DIR$/fullmenu.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -21,10 +21,22 @@
       <file leaf-file-name="fullmenu.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/fullmenu.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="471" column="0" lean-forward="true" selection-start-line="471" selection-start-column="0" selection-end-line="471" selection-end-column="0" />
+            <state relative-caret-position="258">
+              <caret line="292" column="139" lean-forward="false" selection-start-line="292" selection-start-column="139" selection-end-line="292" selection-end-column="139" />
               <folding>
-                <marker date="1528225159226" expanded="true" signature="4157:27217" ph="..." />
+                <marker date="1528228876011" expanded="true" signature="4157:36038" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="fullmenu111.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fullmenu111.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="215" column="0" lean-forward="false" selection-start-line="215" selection-start-column="0" selection-end-line="222" selection-end-column="14" />
+              <folding>
+                <element signature="e#23802#23808#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -41,7 +53,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>social-media-link</find>
       <find>h1</find>
       <find>main</find>
       <find>h3</find>
@@ -71,6 +82,7 @@
       <find>container</find>
       <find>p2</find>
       <find>section</find>
+      <find>additional</find>
     </findStrings>
     <replaceStrings>
       <replace>&lt;/h4&gt;</replace>
@@ -190,12 +202,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1527897774428</updated>
-      <workItem from="1527897775642" duration="46574000" />
+      <workItem from="1527897775642" duration="48779000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46574000" />
+    <option name="totallyTimeSpent" value="48779000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="10" y="22" width="1420" height="878" extended-state="0" />
@@ -411,16 +423,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fullmenu111.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="309">
-          <caret line="480" column="72" lean-forward="false" selection-start-line="480" selection-start-column="68" selection-end-line="480" selection-end-column="72" />
-          <folding>
-            <element signature="e#23802#23808#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="446">
@@ -452,12 +454,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/fullmenu111.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="215" column="0" lean-forward="false" selection-start-line="215" selection-start-column="0" selection-end-line="222" selection-end-column="14" />
+          <folding>
+            <element signature="e#23802#23808#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/fullmenu.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="471" column="0" lean-forward="true" selection-start-line="471" selection-start-column="0" selection-end-line="471" selection-end-column="0" />
+        <state relative-caret-position="258">
+          <caret line="292" column="139" lean-forward="false" selection-start-line="292" selection-start-column="139" selection-end-line="292" selection-end-column="139" />
           <folding>
-            <marker date="1528225159226" expanded="true" signature="4157:27217" ph="..." />
+            <marker date="1528228876011" expanded="true" signature="4157:36038" ph="..." />
           </folding>
         </state>
       </provider>
