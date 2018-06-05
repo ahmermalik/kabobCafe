@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3ac35bab-2b63-4d4a-b79d-44081583b7ec" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/fullmenu.html" afterPath="$PROJECT_DIR$/fullmenu111.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -16,26 +17,27 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="oldmenu.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/oldmenu.html">
+      <file leaf-file-name="fullmenu.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fullmenu.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="60" column="40" lean-forward="true" selection-start-line="60" selection-start-column="40" selection-end-line="60" selection-end-column="40" />
+            <state relative-caret-position="150">
+              <caret line="239" column="38" lean-forward="false" selection-start-line="239" selection-start-column="38" selection-end-line="239" selection-end-column="38" />
               <folding>
-                <element signature="e#20676#20682#0" expanded="true" />
-                <marker date="1528220583446" expanded="true" signature="2026:4508" ph="..." />
+                <marker date="1528223896969" expanded="true" signature="4127:23558" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="fullmenubs3.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/fullmenubs3.html">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1185">
-              <caret line="321" column="42" lean-forward="true" selection-start-line="321" selection-start-column="42" selection-end-line="321" selection-end-column="42" />
+            <state relative-caret-position="420">
+              <caret line="226" column="37" lean-forward="true" selection-start-line="226" selection-start-column="37" selection-end-line="226" selection-end-column="37" />
               <folding>
-                <marker date="1528223896969" expanded="true" signature="4127:23558" ph="..." />
+                <marker date="1528223014061" expanded="true" signature="6620:6718" ph="..." />
+                <marker date="1528223014061" expanded="true" signature="7178:7310" ph="..." />
+                <marker date="1528223014061" expanded="true" signature="13368:14306" ph="..." />
               </folding>
             </state>
           </provider>
@@ -201,12 +203,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1527897774428</updated>
-      <workItem from="1527897775642" duration="45326000" />
+      <workItem from="1527897775642" duration="45417000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45326000" />
+    <option name="totallyTimeSpent" value="45417000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="10" y="22" width="1420" height="878" extended-state="0" />
@@ -422,7 +424,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fullmenu.html">
+    <entry file="file://$PROJECT_DIR$/fullmenu111.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="309">
           <caret line="480" column="72" lean-forward="false" selection-start-line="480" selection-start-column="68" selection-end-line="480" selection-end-column="72" />
@@ -440,22 +442,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="60" column="54" lean-forward="true" selection-start-line="60" selection-start-column="54" selection-end-line="60" selection-end-column="54" />
-          <folding>
-            <marker date="1528223014061" expanded="true" signature="6620:6718" ph="..." />
-            <marker date="1528223014061" expanded="true" signature="7178:7310" ph="..." />
-            <marker date="1528223014061" expanded="true" signature="13368:14306" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/oldmenu.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="60" column="40" lean-forward="true" selection-start-line="60" selection-start-column="40" selection-end-line="60" selection-end-column="40" />
+        <state relative-caret-position="345">
+          <caret line="97" column="0" lean-forward="true" selection-start-line="97" selection-start-column="0" selection-end-line="97" selection-end-column="0" />
           <folding>
             <element signature="e#20676#20682#0" expanded="true" />
             <marker date="1528220583446" expanded="true" signature="2026:4508" ph="..." />
@@ -463,12 +453,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fullmenubs3.html">
+    <entry file="file://$PROJECT_DIR$/fullmenu.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1185">
-          <caret line="321" column="42" lean-forward="true" selection-start-line="321" selection-start-column="42" selection-end-line="321" selection-end-column="42" />
+        <state relative-caret-position="150">
+          <caret line="239" column="38" lean-forward="false" selection-start-line="239" selection-start-column="38" selection-end-line="239" selection-end-column="38" />
           <folding>
             <marker date="1528223896969" expanded="true" signature="4127:23558" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="226" column="37" lean-forward="true" selection-start-line="226" selection-start-column="37" selection-end-line="226" selection-end-column="37" />
+          <folding>
+            <marker date="1528223014061" expanded="true" signature="6620:6718" ph="..." />
+            <marker date="1528223014061" expanded="true" signature="7178:7310" ph="..." />
+            <marker date="1528223014061" expanded="true" signature="13368:14306" ph="..." />
           </folding>
         </state>
       </provider>
