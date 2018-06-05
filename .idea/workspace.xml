@@ -21,11 +21,11 @@
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="387">
-              <caret line="38" column="74" lean-forward="false" selection-start-line="38" selection-start-column="74" selection-end-line="38" selection-end-column="74" />
+              <caret line="60" column="54" lean-forward="false" selection-start-line="60" selection-start-column="54" selection-end-line="60" selection-end-column="54" />
               <folding>
-                <marker date="1528176865079" expanded="true" signature="6548:6646" ph="..." />
-                <marker date="1528176865079" expanded="true" signature="7106:7238" ph="..." />
-                <marker date="1528176865079" expanded="true" signature="13296:14234" ph="..." />
+                <marker date="1528182010551" expanded="true" signature="6611:6709" ph="..." />
+                <marker date="1528182010551" expanded="true" signature="7169:7301" ph="..." />
+                <marker date="1528182010551" expanded="true" signature="13359:14297" ph="..." />
               </folding>
             </state>
           </provider>
@@ -230,12 +230,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1527897774428</updated>
-      <workItem from="1527897775642" duration="38294000" />
+      <workItem from="1527897775642" duration="38674000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38294000" />
+    <option name="totallyTimeSpent" value="38674000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="32" y="22" width="1297" height="878" extended-state="0" />
@@ -456,11 +456,11 @@
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="387">
-          <caret line="38" column="74" lean-forward="false" selection-start-line="38" selection-start-column="74" selection-end-line="38" selection-end-column="74" />
+          <caret line="60" column="54" lean-forward="false" selection-start-line="60" selection-start-column="54" selection-end-line="60" selection-end-column="54" />
           <folding>
-            <marker date="1528176865079" expanded="true" signature="6548:6646" ph="..." />
-            <marker date="1528176865079" expanded="true" signature="7106:7238" ph="..." />
-            <marker date="1528176865079" expanded="true" signature="13296:14234" ph="..." />
+            <marker date="1528182010551" expanded="true" signature="6611:6709" ph="..." />
+            <marker date="1528182010551" expanded="true" signature="7169:7301" ph="..." />
+            <marker date="1528182010551" expanded="true" signature="13359:14297" ph="..." />
           </folding>
         </state>
       </provider>
