@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3ac35bab-2b63-4d4a-b79d-44081583b7ec" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fullmenu.html" afterPath="$PROJECT_DIR$/fullmenu.html" />
     </list>
@@ -21,10 +20,10 @@
       <file leaf-file-name="fullmenu.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/fullmenu.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="258">
-              <caret line="292" column="139" lean-forward="false" selection-start-line="292" selection-start-column="139" selection-end-line="292" selection-end-column="139" />
+            <state relative-caret-position="-264">
+              <caret line="570" column="50" lean-forward="false" selection-start-line="570" selection-start-column="50" selection-end-line="570" selection-end-column="50" />
               <folding>
-                <marker date="1528228876011" expanded="true" signature="4157:36038" ph="..." />
+                <marker date="1528230010589" expanded="true" signature="4157:36620" ph="..." />
               </folding>
             </state>
           </provider>
@@ -202,12 +201,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1527897774428</updated>
-      <workItem from="1527897775642" duration="48779000" />
+      <workItem from="1527897775642" duration="49728000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48779000" />
+    <option name="totallyTimeSpent" value="49728000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="10" y="22" width="1420" height="878" extended-state="0" />
@@ -466,10 +465,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/fullmenu.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="258">
-          <caret line="292" column="139" lean-forward="false" selection-start-line="292" selection-start-column="139" selection-end-line="292" selection-end-column="139" />
+        <state relative-caret-position="-264">
+          <caret line="570" column="50" lean-forward="false" selection-start-line="570" selection-start-column="50" selection-end-line="570" selection-end-column="50" />
           <folding>
-            <marker date="1528228876011" expanded="true" signature="4157:36038" ph="..." />
+            <marker date="1528230010589" expanded="true" signature="4157:36620" ph="..." />
           </folding>
         </state>
       </provider>
