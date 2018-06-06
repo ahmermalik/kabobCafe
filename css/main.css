@@ -759,20 +759,26 @@ nav .block .navbar-default .navbar-nav > .active > a:hover:before {
   width: auto;
 }
 
-.contactform {
-  text-align: center;
-}
 
 .btncolor:hover {
   background: #ff530a !important;
-  color: #fff;
+  color: #fff !important;
 }
 
 .btncolor {
-  /*color: #FF4F02 !important;*/
+  color: #FF4F02 !important;
   border: 1px solid #FF4F02;
   text-transform: uppercase;
   font-size: 15px;
   padding: 10px 20px;
   transition: .3s all;
+}
+
+.contactform {
+  text-align: center;
+  font-size: 15px;
+  text-transform: uppercase;
+  opacity: 0.9;
+  /*border: #ff530a !important;*/
+
 }
