@@ -744,3 +744,8 @@ nav .block .navbar-default .navbar-nav > .active > a:hover:before {
   column-count: 1;
 }
 
+.favor {
+  height: 50px;
+  width: auto;
+}
+
