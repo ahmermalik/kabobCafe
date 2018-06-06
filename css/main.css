@@ -786,3 +786,7 @@ nav .block .navbar-default .navbar-nav > .active > a:hover:before {
 .thanks{
   text-align: center;
 }
+
+.thankspadding{
+  padding: 335px 0px;
+}
