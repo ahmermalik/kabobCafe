@@ -157,6 +157,13 @@ a:active {
 --*/
 #hero-area {
   position: relative;
+  /*opacity: 0.5;*/
+
+}
+
+#navigation{
+  opacity: 0.7;
+  font-weight: bold;
 }
 #hero-area:before {
   content: "";
