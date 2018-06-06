@@ -100,7 +100,6 @@ a:active {
    margin-left: -70px;
  }
 
-}
 .heading2 {
   text-align: center;
   font-weight: 500;
@@ -116,9 +115,9 @@ a:active {
 .heading2:before {
   content: "";
   position: absolute;
-  left: 8.5%;
+  left: 50%;
   bottom: 0;
-  width: 100px;
+  width: 140px;
   height: 1px;
   background: #C8C1B3;
   margin-left: -70px;
