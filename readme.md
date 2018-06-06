@@ -1,4 +1,4 @@
-TwoPage HTML5 restaurant site
+Two page HTML5 restaurant site
 ========
 <a href="https://shishkabobkaty.com/">Live Preview</a>
 
