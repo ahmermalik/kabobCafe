@@ -100,6 +100,7 @@ a:active {
    margin-left: -70px;
  }
 
+}
 .heading2 {
   text-align: center;
   font-weight: 500;
@@ -108,20 +109,22 @@ a:active {
   position: relative;
 }
 .heading2 span {
-  font-size: 45px;
+  font-size: 25px;
   color: #ff530a;
-  font-weight: 600;
+  font-weight: 50px;
 }
-
 .heading2:before {
   content: "";
   position: absolute;
-  left: 50%;
+  left: 8.5%;
   bottom: 0;
-  width: 140px;
+  width: 100px;
   height: 1px;
+  background: #C8C1B3;
   margin-left: -70px;
 }
+
+
 /*--
     custom heading Start
 --*/
