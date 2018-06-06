@@ -2,18 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3ac35bab-2b63-4d4a-b79d-44081583b7ec" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/slider/image1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/slider/image2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/slider/image3 2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/slider/image6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/slider/thumb_IMG_8135_1024.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/slider/thumb_IMG_8146_1024.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/slider/thumb_IMG_8156_1024.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/slider/thumb_IMG_8164_1024.jpg" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/slider/slider-img-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/slider/slider-img-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/slider/slider-img-4.jpg" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/slider/slider-img-1.jpg" afterPath="$PROJECT_DIR$/images/slider/slider-img-1.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
@@ -32,14 +20,12 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="447">
-              <caret line="108" column="33" lean-forward="true" selection-start-line="108" selection-start-column="33" selection-end-line="108" selection-end-column="33" />
+            <state relative-caret-position="621">
+              <caret line="121" column="30" lean-forward="true" selection-start-line="121" selection-start-column="30" selection-end-line="121" selection-end-column="30" />
               <folding>
-                <marker date="1528313104390" expanded="true" signature="6498:6634" ph="..." />
-                <marker date="1528313104390" expanded="true" signature="6563:6634" ph="..." />
-                <marker date="1528313104390" expanded="true" signature="7124:7225" ph="..." />
-                <marker date="1528313104390" expanded="true" signature="13318:14256" ph="..." />
-                <marker date="1528313104390" expanded="true" signature="15315:15488" ph="..." />
+                <marker date="1528313367187" expanded="true" signature="6533:6604" ph="..." />
+                <marker date="1528313367187" expanded="true" signature="7094:7195" ph="..." />
+                <marker date="1528313367187" expanded="true" signature="13288:14226" ph="..." />
               </folding>
             </state>
           </provider>
@@ -243,12 +229,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1527897774428</updated>
-      <workItem from="1527897775642" duration="65601000" />
+      <workItem from="1527897775642" duration="65865000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="65601000" />
+    <option name="totallyTimeSpent" value="65865000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -557,14 +543,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="447">
-          <caret line="108" column="33" lean-forward="true" selection-start-line="108" selection-start-column="33" selection-end-line="108" selection-end-column="33" />
+        <state relative-caret-position="621">
+          <caret line="121" column="30" lean-forward="true" selection-start-line="121" selection-start-column="30" selection-end-line="121" selection-end-column="30" />
           <folding>
-            <marker date="1528313104390" expanded="true" signature="6498:6634" ph="..." />
-            <marker date="1528313104390" expanded="true" signature="6563:6634" ph="..." />
-            <marker date="1528313104390" expanded="true" signature="7124:7225" ph="..." />
-            <marker date="1528313104390" expanded="true" signature="13318:14256" ph="..." />
-            <marker date="1528313104390" expanded="true" signature="15315:15488" ph="..." />
+            <marker date="1528313367187" expanded="true" signature="6533:6604" ph="..." />
+            <marker date="1528313367187" expanded="true" signature="7094:7195" ph="..." />
+            <marker date="1528313367187" expanded="true" signature="13288:14226" ph="..." />
           </folding>
         </state>
       </provider>
