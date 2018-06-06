@@ -19,14 +19,14 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="46" column="39" lean-forward="true" selection-start-line="46" selection-start-column="39" selection-end-line="46" selection-end-column="39" />
+            <state relative-caret-position="435">
+              <caret line="61" column="67" lean-forward="true" selection-start-line="61" selection-start-column="59" selection-end-line="61" selection-end-column="67" />
               <folding>
-                <marker date="1528269619566" expanded="true" signature="6520:6656" ph="..." />
-                <marker date="1528269619566" expanded="true" signature="6585:6656" ph="..." />
-                <marker date="1528269619566" expanded="true" signature="7140:7241" ph="..." />
-                <marker date="1528269619566" expanded="true" signature="13334:14272" ph="..." />
-                <marker date="1528269619566" expanded="true" signature="15331:15504" ph="..." />
+                <marker date="1528270058992" expanded="true" signature="6520:6656" ph="..." />
+                <marker date="1528270058992" expanded="true" signature="6585:6656" ph="..." />
+                <marker date="1528270058992" expanded="true" signature="7140:7241" ph="..." />
+                <marker date="1528270058992" expanded="true" signature="13334:14272" ph="..." />
+                <marker date="1528270058992" expanded="true" signature="15331:15504" ph="..." />
               </folding>
             </state>
           </provider>
@@ -92,9 +92,9 @@
       <find>seafood</find>
       <find>gyro</find>
       <find>vegetar</find>
-      <find>open</find>
       <find>pricing</find>
       <find>side</find>
+      <find>open</find>
     </findStrings>
     <replaceStrings>
       <replace>&lt;/h4&gt;</replace>
@@ -224,12 +224,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1527897774428</updated>
-      <workItem from="1527897775642" duration="62062000" />
+      <workItem from="1527897775642" duration="62337000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="62062000" />
+    <option name="totallyTimeSpent" value="62337000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -478,11 +478,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/images/shishfinal.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/images/header3.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -521,16 +516,36 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/images/shishfinal.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/skc.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/cafelol.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/shishkaboblogo.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="46" column="39" lean-forward="true" selection-start-line="46" selection-start-column="39" selection-end-line="46" selection-end-column="39" />
+        <state relative-caret-position="435">
+          <caret line="61" column="67" lean-forward="true" selection-start-line="61" selection-start-column="59" selection-end-line="61" selection-end-column="67" />
           <folding>
-            <marker date="1528269619566" expanded="true" signature="6520:6656" ph="..." />
-            <marker date="1528269619566" expanded="true" signature="6585:6656" ph="..." />
-            <marker date="1528269619566" expanded="true" signature="7140:7241" ph="..." />
-            <marker date="1528269619566" expanded="true" signature="13334:14272" ph="..." />
-            <marker date="1528269619566" expanded="true" signature="15331:15504" ph="..." />
+            <marker date="1528270058992" expanded="true" signature="6520:6656" ph="..." />
+            <marker date="1528270058992" expanded="true" signature="6585:6656" ph="..." />
+            <marker date="1528270058992" expanded="true" signature="7140:7241" ph="..." />
+            <marker date="1528270058992" expanded="true" signature="13334:14272" ph="..." />
+            <marker date="1528270058992" expanded="true" signature="15331:15504" ph="..." />
           </folding>
         </state>
       </provider>
