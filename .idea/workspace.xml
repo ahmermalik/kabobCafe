@@ -3,9 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="3ac35bab-2b63-4d4a-b79d-44081583b7ec" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thanks.html" afterPath="$PROJECT_DIR$/thanks.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -19,24 +17,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="118">
-              <caret line="160" column="39" lean-forward="true" selection-start-line="160" selection-start-column="39" selection-end-line="160" selection-end-column="39" />
+            <state relative-caret-position="640">
+              <caret line="263" column="76" lean-forward="false" selection-start-line="263" selection-start-column="76" selection-end-line="263" selection-end-column="76" />
               <folding>
-                <marker date="1528322674386" expanded="true" signature="6863:6934" ph="..." />
-                <marker date="1528322674386" expanded="true" signature="7440:7541" ph="..." />
+                <marker date="1528324688624" expanded="true" signature="6863:6934" ph="..." />
+                <marker date="1528324688624" expanded="true" signature="7440:7541" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="460">
-              <caret line="766" column="0" lean-forward="true" selection-start-line="766" selection-start-column="0" selection-end-line="766" selection-end-column="0" />
+            <state relative-caret-position="225">
+              <caret line="607" column="1" lean-forward="true" selection-start-line="607" selection-start-column="1" selection-end-line="607" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -53,8 +51,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>additional</find>
-      <find>falal</find>
       <find>addi</find>
       <find>favor</find>
       <find>gallary</find>
@@ -83,6 +79,8 @@
       <find>form</find>
       <find>.form</find>
       <find>#price</find>
+      <find>input</find>
+      <find>textarea</find>
     </findStrings>
     <replaceStrings>
       <replace>&lt;/h4&gt;</replace>
@@ -103,8 +101,8 @@
         <option value="$PROJECT_DIR$/fullmenu.html" />
         <option value="$PROJECT_DIR$/readme.md" />
         <option value="$PROJECT_DIR$/thanks.html" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/main.css" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -226,12 +224,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1527897774428</updated>
-      <workItem from="1527897775642" duration="72294000" />
+      <workItem from="1527897775642" duration="72845000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="72294000" />
+    <option name="totallyTimeSpent" value="72845000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -535,22 +533,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="118">
-          <caret line="160" column="39" lean-forward="true" selection-start-line="160" selection-start-column="39" selection-end-line="160" selection-end-column="39" />
-          <folding>
-            <marker date="1528322674386" expanded="true" signature="6863:6934" ph="..." />
-            <marker date="1528322674386" expanded="true" signature="7440:7541" ph="..." />
-          </folding>
+        <state relative-caret-position="225">
+          <caret line="607" column="1" lean-forward="true" selection-start-line="607" selection-start-column="1" selection-end-line="607" selection-end-column="1" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/main.css">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="766" column="0" lean-forward="true" selection-start-line="766" selection-start-column="0" selection-end-line="766" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="640">
+          <caret line="263" column="76" lean-forward="false" selection-start-line="263" selection-start-column="76" selection-end-line="263" selection-end-column="76" />
+          <folding>
+            <marker date="1528324688624" expanded="true" signature="6863:6934" ph="..." />
+            <marker date="1528324688624" expanded="true" signature="7440:7541" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
