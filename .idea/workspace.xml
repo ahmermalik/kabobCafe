@@ -3,7 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="3ac35bab-2b63-4d4a-b79d-44081583b7ec" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fullmenu.html" afterPath="$PROJECT_DIR$/fullmenu.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thanks.html" afterPath="$PROJECT_DIR$/thanks.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -17,25 +20,35 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.html">
+      <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="640">
-              <caret line="263" column="76" lean-forward="false" selection-start-line="263" selection-start-column="76" selection-end-line="263" selection-end-column="76" />
-              <folding>
-                <marker date="1528324688624" expanded="true" signature="6863:6934" ph="..." />
-                <marker date="1528324688624" expanded="true" signature="7440:7541" ph="..." />
-              </folding>
+            <state relative-caret-position="415">
+              <caret line="767" column="1" lean-forward="false" selection-start-line="767" selection-start-column="1" selection-end-line="767" selection-end-column="9" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/main.css">
+      <file leaf-file-name="thanks.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/thanks.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="607" column="1" lean-forward="true" selection-start-line="607" selection-start-column="1" selection-end-line="607" selection-end-column="1" />
+            <state relative-caret-position="525">
+              <caret line="35" column="0" lean-forward="true" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-158">
+              <caret line="286" column="36" lean-forward="true" selection-start-line="286" selection-start-column="36" selection-end-line="286" selection-end-column="36" />
+              <folding>
+                <marker date="1528325086392" expanded="true" signature="6863:6934" ph="..." />
+                <marker date="1528325086392" expanded="true" signature="7440:7541" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -98,11 +111,11 @@
         <option value="$PROJECT_DIR$/prototype.html" />
         <option value="$PROJECT_DIR$/newmenu.html" />
         <option value="$PROJECT_DIR$/fullmenubs3.html" />
-        <option value="$PROJECT_DIR$/fullmenu.html" />
         <option value="$PROJECT_DIR$/readme.md" />
-        <option value="$PROJECT_DIR$/thanks.html" />
-        <option value="$PROJECT_DIR$/css/main.css" />
+        <option value="$PROJECT_DIR$/fullmenu.html" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/main.css" />
+        <option value="$PROJECT_DIR$/thanks.html" />
       </list>
     </option>
   </component>
@@ -224,12 +237,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1527897774428</updated>
-      <workItem from="1527897775642" duration="72845000" />
+      <workItem from="1527897775642" duration="73284000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="72845000" />
+    <option name="totallyTimeSpent" value="73284000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -517,38 +530,38 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/fullmenu.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="477">
-          <caret line="632" column="60" lean-forward="true" selection-start-line="632" selection-start-column="60" selection-end-line="632" selection-end-column="60" />
+        <state relative-caret-position="292">
+          <caret line="767" column="21" lean-forward="true" selection-start-line="767" selection-start-column="21" selection-end-line="767" selection-end-column="21" />
           <folding>
-            <marker date="1528315156157" expanded="true" signature="4097:39587" ph="..." />
+            <marker date="1528325079372" expanded="true" signature="4097:39587" ph="..." />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/thanks.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="607" column="1" lean-forward="true" selection-start-line="607" selection-start-column="1" selection-end-line="607" selection-end-column="1" />
+        <state relative-caret-position="415">
+          <caret line="767" column="1" lean-forward="false" selection-start-line="767" selection-start-column="1" selection-end-line="767" selection-end-column="9" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="640">
-          <caret line="263" column="76" lean-forward="false" selection-start-line="263" selection-start-column="76" selection-end-line="263" selection-end-column="76" />
+        <state relative-caret-position="-158">
+          <caret line="286" column="36" lean-forward="true" selection-start-line="286" selection-start-column="36" selection-end-line="286" selection-end-column="36" />
           <folding>
-            <marker date="1528324688624" expanded="true" signature="6863:6934" ph="..." />
-            <marker date="1528324688624" expanded="true" signature="7440:7541" ph="..." />
+            <marker date="1528325086392" expanded="true" signature="6863:6934" ph="..." />
+            <marker date="1528325086392" expanded="true" signature="7440:7541" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thanks.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="35" column="0" lean-forward="true" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
