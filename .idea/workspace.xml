@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="3ac35bab-2b63-4d4a-b79d-44081583b7ec" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -17,15 +18,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="606">
-              <caret line="280" column="38" lean-forward="true" selection-start-line="280" selection-start-column="38" selection-end-line="280" selection-end-column="38" />
+            <state relative-caret-position="546">
+              <caret line="264" column="47" lean-forward="true" selection-start-line="264" selection-start-column="47" selection-end-line="264" selection-end-column="55" />
               <folding>
-                <marker date="1528320441278" expanded="true" signature="6863:6934" ph="..." />
-                <marker date="1528320441278" expanded="true" signature="7440:7541" ph="..." />
+                <marker date="1528321267377" expanded="true" signature="6863:6934" ph="..." />
+                <marker date="1528321267377" expanded="true" signature="7440:7541" ph="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/css/main.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="715">
+              <caret line="774" column="18" lean-forward="true" selection-start-line="774" selection-start-column="18" selection-end-line="774" selection-end-column="18" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -41,8 +52,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>#price</find>
-      <find>price</find>
       <find>container</find>
       <find>p2</find>
       <find>section</find>
@@ -52,12 +61,10 @@
       <find>favor</find>
       <find>gallary</find>
       <find>about</find>
-      <find>FF4F02</find>
       <find>font</find>
       <find>logo</find>
       <find>hero-area</find>
       <find>navigation</find>
-      <find>span</find>
       <find>heading:before</find>
       <find>salaf</find>
       <find>class=&quot;heading2&quot; wow fadeInUp</find>
@@ -70,7 +77,11 @@
       <find>fullmenu</find>
       <find>pricing</find>
       <find>shiraz</find>
+      <find>span</find>
+      <find>block</find>
+      <find>FF4F02</find>
       <find>meet</find>
+      <find>button</find>
     </findStrings>
     <replaceStrings>
       <replace>&lt;/h4&gt;</replace>
@@ -88,11 +99,11 @@
         <option value="$PROJECT_DIR$/prototype.html" />
         <option value="$PROJECT_DIR$/newmenu.html" />
         <option value="$PROJECT_DIR$/fullmenubs3.html" />
-        <option value="$PROJECT_DIR$/css/main.css" />
         <option value="$PROJECT_DIR$/fullmenu.html" />
         <option value="$PROJECT_DIR$/thanks.html" />
         <option value="$PROJECT_DIR$/readme.md" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/main.css" />
       </list>
     </option>
   </component>
@@ -214,12 +225,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1527897774428</updated>
-      <workItem from="1527897775642" duration="69818000" />
+      <workItem from="1527897775642" duration="70890000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="69818000" />
+    <option name="totallyTimeSpent" value="70890000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -489,14 +500,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="34" column="18" lean-forward="true" selection-start-line="34" selection-start-column="18" selection-end-line="34" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/readme.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -533,12 +536,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="606">
-          <caret line="280" column="38" lean-forward="true" selection-start-line="280" selection-start-column="38" selection-end-line="280" selection-end-column="38" />
+        <state relative-caret-position="546">
+          <caret line="264" column="47" lean-forward="true" selection-start-line="264" selection-start-column="47" selection-end-line="264" selection-end-column="55" />
           <folding>
-            <marker date="1528320441278" expanded="true" signature="6863:6934" ph="..." />
-            <marker date="1528320441278" expanded="true" signature="7440:7541" ph="..." />
+            <marker date="1528321267377" expanded="true" signature="6863:6934" ph="..." />
+            <marker date="1528321267377" expanded="true" signature="7440:7541" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="715">
+          <caret line="774" column="18" lean-forward="true" selection-start-line="774" selection-start-column="18" selection-end-line="774" selection-end-column="18" />
+          <folding />
         </state>
       </provider>
     </entry>
