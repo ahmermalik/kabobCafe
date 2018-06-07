@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3ac35bab-2b63-4d4a-b79d-44081583b7ec" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/cafelol.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/shishfinal.png" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -20,7 +21,7 @@
       <file leaf-file-name="thanks.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/thanks.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="615">
+            <state relative-caret-position="0">
               <caret line="41" column="0" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
               <folding />
             </state>
@@ -30,8 +31,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="269">
-              <caret line="142" column="154" lean-forward="false" selection-start-line="142" selection-start-column="154" selection-end-line="142" selection-end-column="154" />
+            <state relative-caret-position="430">
+              <caret line="78" column="30" lean-forward="true" selection-start-line="78" selection-start-column="30" selection-end-line="78" selection-end-column="30" />
               <folding>
                 <marker date="1528337352978" expanded="true" signature="6863:6934" ph="..." />
                 <marker date="1528337352978" expanded="true" signature="7440:7541" ph="..." />
@@ -55,7 +56,6 @@
       <find>gallary</find>
       <find>about</find>
       <find>font</find>
-      <find>logo</find>
       <find>hero-area</find>
       <find>navigation</find>
       <find>heading:before</find>
@@ -81,6 +81,7 @@
       <find>input</find>
       <find>textarea</find>
       <find>padding</find>
+      <find>logo</find>
     </findStrings>
     <replaceStrings>
       <replace>&lt;/h4&gt;</replace>
@@ -142,8 +143,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -176,6 +175,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -226,12 +227,13 @@
       <workItem from="1527897775642" duration="74588000" />
       <workItem from="1528327351759" duration="295000" />
       <workItem from="1528329658070" duration="951000" />
-      <workItem from="1528337345434" duration="8000" />
+      <workItem from="1528337345434" duration="438000" />
+      <workItem from="1528360595538" duration="69000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="75842000" />
+    <option name="totallyTimeSpent" value="76341000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -377,11 +379,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/images/header.jpg" />
-    <entry file="file://$PROJECT_DIR$/images/favor.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/images/lqogo.png" />
     <entry file="file://$PROJECT_DIR$/images/Shishkabobcafe.png" />
     <entry file="file://$PROJECT_DIR$/css/font-awesome.min.css">
@@ -403,36 +400,11 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/images/logo.png" />
-    <entry file="file://$PROJECT_DIR$/images/header3.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css_four_menu/oldmenu2.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="537">
           <caret line="224" column="40" lean-forward="true" selection-start-line="224" selection-start-column="40" selection-end-line="224" selection-end-column="40" />
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/shishfinal.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/skc.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/cafelol.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/shishkaboblogo.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/images/fullmenu.png" />
@@ -452,7 +424,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="662">
           <caret line="790" column="21" lean-forward="true" selection-start-line="790" selection-start-column="21" selection-end-line="790" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -460,24 +431,76 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="546">
           <caret line="785" column="27" lean-forward="true" selection-start-line="785" selection-start-column="27" selection-end-line="785" selection-end-column="27" />
-          <folding>
-            <marker date="1528325079372" expanded="true" signature="4097:39587" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/thanks.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="615">
+        <state relative-caret-position="0">
           <caret line="41" column="0" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/images/slider/image5.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/slider/image3.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/slider/image4.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/slider/image2.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/slider/image1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/cafelol.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/skc.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/shishkaboblogo.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/shishfinal.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/favor.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/header3.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="142" column="154" lean-forward="false" selection-start-line="142" selection-start-column="154" selection-end-line="142" selection-end-column="154" />
+        <state relative-caret-position="430">
+          <caret line="78" column="30" lean-forward="true" selection-start-line="78" selection-start-column="30" selection-end-line="78" selection-end-column="30" />
           <folding>
             <marker date="1528337352978" expanded="true" signature="6863:6934" ph="..." />
             <marker date="1528337352978" expanded="true" signature="7440:7541" ph="..." />
