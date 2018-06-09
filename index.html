@@ -11,6 +11,18 @@
             gtag('config', 'UA-120548769-2');
         </script>
 
+        <script>
+            /**
+             * Function that tracks a click on an outbound link in Analytics.
+             */
+            var trackOutboundLink = function(url) {
+                ga('send', 'event', 'outbound', 'click', url, {
+                    'transport': 'beacon',
+                    'hitCallback': function(){document.location = url;}
+                });
+            }
+        </script>
+
         <meta charset="utf-8">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 		<title>Shish Kabob Cafe Katy</title>
@@ -238,7 +250,7 @@
                                     </div>
                                 </li>
                             </ul>
-                            <a class="btn btn-default pull-right wow bounceIn" data-wow-duration="125ms" data-wow-delay="200ms" href="fullmenu.html" role="button">Full Menu</a>
+                            <a class="btn btn-default pull-right wow bounceIn" onclick="trackOutboundLink('fullmenu.html'); return false;") data-wow-duration="125ms" data-wow-delay="200ms" href="fullmenu.html" role="button">Full Menu</a>
                         </div>
                     </div>
                 </div><!-- .col-md-12 close -->
@@ -295,7 +307,7 @@
                         <div class="info">
                             <ul>
                                 <li>
-                                    <a href="https://favordelivery.com/order-delivery/shish-kabob-cafe-17139"> <img src="images/favor.png" class="favor"></a>
+                                    <a href="https://favordelivery.com/order-delivery/shish-kabob-cafe-17139" onclick="trackOutboundLink('https://favordelivery.com/order-delivery/shish-kabob-cafe-17139'); return false;"> <img src="images/favor.png" class="favor"></a>
                                 </li><br>
                                 <li>
                                   <h4><i class="fa fa-phone"></i>Telephone</h4>
@@ -367,7 +379,7 @@
             <div class="row">
                 <div class="col-md-12 col-sm-12">
                     <div class="block">
-                        <p>Copyright &copy; 2018 - All Rights Reserved. <br> Designed and Developed By <a href="https://www.ahmermalik.com">Ahmer Malik</a></p>
+                        <p>Copyright &copy; 2018 - All Rights Reserved. <br> Designed and Developed By <a href="https://www.ahmermalik.com" onclick="trackOutboundLink('https://www.ahmermalik.com'); return false;">Ahmer Malik</a></p>
                     </div>
                 </div>
             </div>
