@@ -369,7 +369,7 @@ nav .block .navbar-default .navbar-nav > .active > a:hover:before {
   padding: 12px 0 0px;
   color: #949494;
 }
-#price .block .pricing-list .btn {
+#price .block .pricing-list .btn:pointer {
   padding: 28px 105px;
   border-radius: 0px;
   background: none;
