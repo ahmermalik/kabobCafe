@@ -440,7 +440,7 @@ nav .block .navbar-default .navbar-nav > .active > a:hover:before {
     footer Start
 --*/
 #footer {
-  padding: 70px 0px;
+  padding: 10px 0px;
 }
 #footer .block h3 {
   color: #2E2E2E;
@@ -523,11 +523,11 @@ nav .block .navbar-default .navbar-nav > .active > a:hover:before {
 --*/
 #footer-bottom {
   background: #E9E9E9;
-  padding: 20px 0px;
+  padding: 5px 0px;
 }
 #footer-bottom p {
   text-align: center;
-  padding-top: 12px;
+  /*padding-top: 12px;*/
   color: #454545;
   font-size: 12px;
   font-weight: 600;
@@ -572,7 +572,6 @@ nav .block .navbar-default .navbar-nav > .active > a:hover:before {
   font-size: 15px;
   text-transform: uppercase;
   opacity: 0.9;
-  /*border: #ff530a !important;*/
 
 }
 
