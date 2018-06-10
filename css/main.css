@@ -320,151 +320,7 @@ nav .block .navbar-default .navbar-nav > .active > a:hover:before {
   line-height: 26px;
   padding: 40px 0px;
 }
-/*--
-    blog Start
---*/
-#blog {
-  padding-top: 75px;
-  padding-bottom: 100px;
-  background: url("../images/blog/blog-bg.jpg");
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-attachment: fixed;
-  position: relative;
-}
-#blog:before {
-  content: "";
-  position: absolute;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  top: 0;
-  width: 100%;
-  height: 100%;
-  background: url("../images/overlay-pattern.png") #000000;
-  opacity: 0.3;
-}
-#blog .block .heading {
-  color: #fff;
-}
-#blog .block ul {
-  padding-top: 40px;
-}
-#blog .block ul li {
-  overflow: hidden;
-  width: 50%;
-  float: left;
-  background: #fff;
-  text-align: center;
-  color: #959595;
-  transform: 1s;
-}
-#blog .block ul li:hover img {
-  transform: scale(1.2) rotate(10deg);
-}
-#blog .block ul li h3 {
-  color: #323232;
-  padding: 0px 40px 20px;
-  line-height: 26px;
-  position: relative;
-}
-#blog .block ul li h3:before {
-  content: "";
-  position: absolute;
-  left: 50%;
-  bottom: 0;
-  width: 90px;
-  height: 1px;
-  background: #CBC4B5;
-  margin-left: -45px;
-}
-#blog .block ul li p {
-  padding-top: 25px;
-}
-#blog .block ul li .blog-img {
-  float: left;
-  width: 50%;
-  height: 100%;
-  background: red;
-  overflow: hidden;
-}
-#blog .block ul li .blog-img img {
-  -webkit-transition: all 0.8s ease-out;
-  -o-transition: all 0.8s ease-out;
-  transition: all 0.8s ease-out;
-}
-#blog .block ul li .blog-img-2 {
-  width: 50%;
-  float: right;
-  overflow: hidden;
-}
-#blog .block ul li .blog-img-2 img {
-  -webkit-transition: all 0.8s ease-out;
-  -o-transition: all 0.8s ease-out;
-  transition: all 0.8s ease-out;
-  width: 100%;
-}
-#blog .block ul li .content-right {
-  padding: 40px 35px 23px;
-  font-size: 16px;
-  line-height: 26px;
-  float: right;
-  width: 50%;
-  height: 100%;
-  position: relative;
-}
-#blog .block ul li .content-right:after {
-  content: "";
-  position: absolute;
-  left: 0;
-  bottom: 0;
-  right: 0;
-  top: 50%;
-  width: 30px;
-  height: 30px;
-  margin-top: -15px;
-  background: #fff;
-  transform: rotate(45deg);
-  margin-left: -15px;
-}
-#blog .block ul li .content-left {
-  padding: 40px 35px 23px;
-  width: 50%;
-  height: 100%;
-  float: left;
-  position: relative;
-  z-index: 999;
-}
-#blog .block ul li .content-left:after {
-  content: "";
-  position: absolute;
-  right: -15px;
-  top: 50%;
-  width: 30px;
-  height: 30px;
-  margin-top: 0px;
-  background: #fff;
-  transform: rotate(45deg);
-}
-#blog .block .btn-more-info {
-  float: right;
-  padding: 28px 102.5px;
-  border-radius: 0px;
-  background: #ff530a;
-  color: #fff;
-  border: 1px solid transparent ;
-  text-transform: uppercase;
-  font-weight: 500;
-  font-size: 16px;
-  -webkit-transition: .3s all;
-  -o-transition: .3s all;
-  transition: .3s all;
-}
-#blog .block .btn-more-info:hover {
-  background: transparent;
-  color: #ff530a;
-  border: 1px solid #ff530a;
-}
+
 /*--
     price Start
 --*/
@@ -530,78 +386,15 @@ nav .block .navbar-default .navbar-nav > .active > a:hover:before {
   background: #ff530a;
   color: #fff;
 }
-/*--
-    subscribe Start
---*/
-#subscribe {
-  padding: 100px 0px;
-  text-align: center;
-  background: url("../images/subscribe-bg.jpg");
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: cover;
-  position: relative;
-}
-#subscribe:before {
-  content: "";
-  position: absolute;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  top: 0;
-  width: 100%;
-  height: 100%;
-  background: url("../images/overlay-pattern.png") #000000;
-  opacity: 0.3;
-}
-#subscribe .block h1.heading {
-  color: #fff;
-}
-#subscribe .block p {
-  padding: 25px 0px;
-  color: #fff;
-  font-size: 18px;
-}
-#subscribe .block form .form-control {
-  width: 450px;
-  background: #fff;
-  opacity: 0.9;
-  border: none;
-  height: 65px;
-  border-radius: 0px;
-  font-size: 15px;
-}
-#subscribe .block form .input-group-addon {
-  padding: 0px;
-  border: none;
-  background: none;
-}
-#subscribe .block form .input-group-addon button {
-  width: 212px;
-  height: 65px;
-  border: none;
-  border-radius: 0px;
-  background: #7EC3BB;
-  color: #fff;
-  font-weight: 600;
-  font-size: 16px;
-  letter-spacing: 2px;
-  text-transform: uppercase;
-  -webkit-transition: .3s all;
-  -o-transition: .3s all;
-  transition: .3s all;
-}
-#subscribe .block form .input-group-addon button:hover {
-  background: #69a8a1;
-}
+
 /*--
     contact-us Start
 --*/
 #contact-us {
-  padding: 70px 0px;
+  /*padding: -40px 0px;*/
 }
 #contact-us .block .title {
-  padding: 20px 0;
+  /*padding: 20px 0;*/
 }
 #contact-us .block form {
   padding-bottom: 20px;
@@ -656,40 +449,40 @@ nav .block .navbar-default .navbar-nav > .active > a:hover:before {
 #footer .block h3 span {
   color: #FF4F02;
 }
-#footer .block .blog ul,
+#footer .block ul,
 #footer .block .info ul,
 #footer .block .gallary ul {
   padding-top: 20px;
 }
-#footer .block .blog ul li,
+#footer .block ul li,
 #footer .block .info ul li,
 #footer .block .gallary ul li {
   margin-bottom: 25px;
   display: inline-block;
   margin-right: 20px;
 }
-#footer .block .blog ul li h4,
+#footer .block ul li h4,
 #footer .block .info ul li h4,
 #footer .block .gallary ul li h4 {
   padding-bottom: 10px;
   display: block;
   color: #FF4F02;
 }
-#footer .block .blog ul li h4 i,
+#footer .block ul li h4 i,
 #footer .block .info ul li h4 i,
 #footer .block .gallary ul li h4 i {
   color: #555;
   margin-right: 30px;
   font-size: 20px;
 }
-#footer .block .blog ul li h4 a,
+#footer .block ul li h4 a,
 #footer .block .info ul li h4 a,
 #footer .block .gallary ul li h4 a {
   color: #FF4F02;
   font-size: 20px;
   font-weight: 600;
 }
-#footer .block .blog ul li p,
+#footer .block ul li p,
 #footer .block .info ul li p,
 #footer .block .gallary ul li p {
   color: #474747;
