@@ -382,6 +382,11 @@ nav .block .navbar-default .navbar-nav > .active > a:hover:before {
   -o-transition: .3s all;
   transition: .3s all;
 }
+#price .block .pricing-list .btn:hover {
+  background: #ff530a;
+  color: #fff;
+}
+
 #price .block .pricing-list .btn:pointer {
   background: #ff530a;
   color: #fff;
