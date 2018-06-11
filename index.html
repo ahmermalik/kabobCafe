@@ -272,20 +272,20 @@
 
                             <div class="form-group wow fadeInDown" data-wow-duration="100ms" data-wow-delay="50ms">
 
-                                <label>Your Name <input  class="form-control" type="text" name="name" /></label>
+                                <label>Your Name <input  class="form-control" type="text" name="name" id="contact-name"/></label>
 
                             </div>
 
                             <div class="form-group wow fadeInDown" data-wow-duration="100ms" data-wow-delay="50ms">
 
-                                <label>Your Email <input class="form-control" type="email" name="email" /></label>
+                                <label>Your Email <input class="form-control" type="email" name="email" id="contact-email"/></label>
                             </div>
 
                             <div class="form-group wow fadeInDown" data-wow-duration="100ms" data-wow-delay="50ms">
 
-                                <label>Message <textarea class="form-control" style="margin: 0px; height: 121px; width: 339px; name="message"></textarea></label>
+                                <label>Message <textarea class="form-control" name="message" id="msg" style="margin: 0px; height: 121px; width: 339px;"></textarea></label>
                            </div>
-                                <button class="btncolor btn btn-default wow bounceIn" type="submit">Send</button>
+                                <button onClick="return emptyForm()" class="btncolor btn btn-default wow bounceIn" type="submit">Send</button>
 
                         </form>
 
@@ -387,4 +387,25 @@
         </div>
     </footer>
 	</body>
+<script>
+
+function emptyForm(){
+    var x = document.getElementById("msg").value;
+    var y = document.getElementById("contact-name").value;
+    var z = document.getElementById("contact-email").value;
+    if (x == "") {
+        alert("Message Blank");
+        return false;
+    }
+    else if (y == "") {
+        alert("Name Blank");
+        return false;
+    }
+    else if (z == "") {
+        alert("E-Mail Blank");
+        return false;
+    };
+}
+
+</script>
 </html>
