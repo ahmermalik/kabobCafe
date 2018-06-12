@@ -5,7 +5,11 @@
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-120548769-2"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+
         gtag('js', new Date());
 
         gtag('config', 'UA-120548769-2');
@@ -15,14 +19,15 @@
         /**
          * Function that tracks a click on an outbound link in Analytics.
          */
-        var trackOutboundLink = function(url) {
+        var trackOutboundLink = function (url) {
             ga('send', 'event', 'outbound', 'click', url, {
                 'transport': 'beacon',
-                'hitCallback': function(){document.location = url;}
+                'hitCallback': function () {
+                    document.location = url;
+                }
             });
         }
     </script>
-
 
 
     <meta charset="utf-8">
@@ -145,7 +150,8 @@ Menu Start
                                         <div class="border-bottom"></div>
                                         <span>$ 4.99</span>
                                     </div>
-                                    <p>Warm roasted eggplant mixed with sautéed onions, garlic and crusted mint. Topped with yogurt & comes with 1 pita bread.</p>
+                                    <p>Warm roasted eggplant mixed with sautéed onions, garlic and crusted mint. Topped
+                                        with yogurt & comes with 1 pita bread.</p>
                                 </div>
                                 </br>
                                 <div class="item">
@@ -209,7 +215,7 @@ Menu Start
                     <div class="pricing-list">
                         <div class="title">
                             <section id="salads"></section>
-                            <h3 class="heading2 wow fadeInUp"> <span>Salads 🥗</span></h3>
+                            <h3 class="heading2 wow fadeInUp"><span>Salads 🥗</span></h3>
                         </div>
                         <ul>
                             <li class="wow fadeInUp" data-wow-duration="150ms" data-wow-delay="50ms">
@@ -220,7 +226,8 @@ Menu Start
                                         <div class="border-bottom"></div>
                                         <span>$ 11.99</span>
                                     </div>
-                                    <p>Slice of lamb, Iceberg lettuce, slice of tomato with cucumber, topped with fetta cheese, olive oil & lemon juice dressing. </p>
+                                    <p>Slice of lamb, Iceberg lettuce, slice of tomato with cucumber, topped with fetta
+                                        cheese, olive oil & lemon juice dressing. </p>
                                 </div>
                                 </br>
                                 <div class="item">
@@ -229,7 +236,8 @@ Menu Start
                                         <div class="border-bottom"></div>
                                         <span>$ 14.99</span>
                                     </div>
-                                    <p>Tender chunks of beef ribeye with grilled tomato, bell pepper, onion & garden salad.</p>
+                                    <p>Tender chunks of beef ribeye with grilled tomato, bell pepper, onion & garden
+                                        salad.</p>
                                 </div>
                                 </br>
                                 <div class="item">
@@ -238,13 +246,13 @@ Menu Start
                                         <div class="border-bottom"></div>
                                         <span>$ 11.99</span>
                                     </div>
-                                    <p>Juicy chunks of chicken breast with grilled tomato, bell pepper, onion & garden salad.</p>
+                                    <p>Juicy chunks of chicken breast with grilled tomato, bell pepper, onion & garden
+                                        salad.</p>
                                 </div>
                             </li>
                         </ul>
                     </div>
                     <!--end of salads-->
-
 
 
                     <section id="entrees"></section>
@@ -254,11 +262,11 @@ Menu Start
                         </div>
 
                         <div class="col-6 mx-auto text-center">
-                                <h5 class="text-uppercase">Additional Grilled Toppings</h5>
-                                <p2 class="small"> Tomato, Onion, Jalapeño, Bell Pepper, Zuccini, Squash</p2>
-                                <span class="float-right font-weight-bold">¢ .50 ea</span>
-                        </br>
-                                *All entrées can be made into a salad.*
+                            <h5 class="text-uppercase">Additional Grilled Toppings</h5>
+                            <p2 class="small"> Tomato, Onion, Jalapeño, Bell Pepper, Zuccini, Squash</p2>
+                            <span class="float-right font-weight-bold">¢ .50 ea</span>
+                            </br>
+                            *All entrées can be made into a salad.*
 
                         </div>
 
@@ -270,7 +278,8 @@ Menu Start
                                         <div class="border-bottom"></div>
                                         <span>$ 10.99</span>
                                     </div>
-                                    <p>Two skewers of seasoned, juicy ground beef kabob. Served with Persian rice & grilled tomatoes.</p>
+                                    <p>Two skewers of seasoned, juicy ground beef kabob. Served with Persian rice &
+                                        grilled tomatoes.</p>
                                 </div>
                                 </br>
                                 <div class="item">
@@ -279,7 +288,8 @@ Menu Start
                                         <div class="border-bottom"></div>
                                         <span>$ 10.99</span>
                                     </div>
-                                    <p>Two skewers of ground chicken kabob. Served with Persian rice & grilled tomatoes.</p>
+                                    <p>Two skewers of ground chicken kabob. Served with Persian rice & grilled
+                                        tomatoes.</p>
                                 </div>
                                 </br>
                                 <div class="item">
@@ -288,7 +298,8 @@ Menu Start
                                         <div class="border-bottom"></div>
                                         <span>$ 10.99</span>
                                     </div>
-                                    <p>One skewer of ground beef kabob & one skewer of ground chicken kabob with Persian rice & grilled tomatoes.</p>
+                                    <p>One skewer of ground beef kabob & one skewer of ground chicken kabob with Persian
+                                        rice & grilled tomatoes.</p>
                                 </div>
                                 </br>
                                 <div class="item">
@@ -297,7 +308,8 @@ Menu Start
                                         <div class="border-bottom"></div>
                                         <span>$ 10.99</span>
                                     </div>
-                                    <p>Grilled chicken breast with grilled tomato, bell pepper, & onion. Served with Persian rice.</p>
+                                    <p>Grilled chicken breast with grilled tomato, bell pepper, & onion. Served with
+                                        Persian rice.</p>
                                 </div>
                                 </br>
                                 <div class="item">
@@ -306,7 +318,8 @@ Menu Start
                                         <div class="border-bottom"></div>
                                         <span>$ 13.99</span>
                                     </div>
-                                    <p>Tender chunks of beef ribeye with grilled tomato, bell pepper, onion & Persian rice.</p>
+                                    <p>Tender chunks of beef ribeye with grilled tomato, bell pepper, onion & Persian
+                                        rice.</p>
                                 </div>
                                 </br>
                                 <div class="item">
@@ -315,7 +328,8 @@ Menu Start
                                         <div class="border-bottom"></div>
                                         <span>$ 14.99</span>
                                     </div>
-                                    <p>Chunk of tender lamb served with Persian rice, grilled tomato, bell pepper, zucchini, squash & onion.</p>
+                                    <p>Chunk of tender lamb served with Persian rice, grilled tomato, bell pepper,
+                                        zucchini, squash & onion.</p>
                                 </div>
                                 </br>
                                 <div class="item">
@@ -333,7 +347,8 @@ Menu Start
                                         <div class="border-bottom"></div>
                                         <span>$ 12.99</span>
                                     </div>
-                                    <p>Slices of chicken, lamb with garlic sauce on top, hummus, Persian rice & pita bread.</p>
+                                    <p>Slices of chicken, lamb with garlic sauce on top, hummus, Persian rice & pita
+                                        bread.</p>
                                 </div>
                                 </br>
                                 <div class="item">
@@ -351,7 +366,8 @@ Menu Start
                                         <div class="border-bottom"></div>
                                         <span>$ 10.99</span>
                                     </div>
-                                    <p>Slices of chicken breast, topped with garlic sauce, with a side of hummus, rice & pita bread.</p>
+                                    <p>Slices of chicken breast, topped with garlic sauce, with a side of hummus, rice &
+                                        pita bread.</p>
                                 </div>
                                 </br>
                                 <div class="item">
@@ -360,7 +376,8 @@ Menu Start
                                         <div class="border-bottom"></div>
                                         <span>$ 10.99</span>
                                     </div>
-                                    <p>Slices of chicken breast, topped with garlic sauce, with a side of hummus, rice & pita bread.</p>
+                                    <p>Slices of chicken breast, topped with garlic sauce, with a side of hummus, rice &
+                                        pita bread.</p>
                                 </div>
                                 </br>
                                 <div class="item">
@@ -387,7 +404,8 @@ Menu Start
                                         <div class="border-bottom"></div>
                                         <span>$ 13.99</span>
                                     </div>
-                                    <p>One skewer of beef kabob & chicken breast kabob. Served with Persian rice, grilled tomato, bell pepper & onion.</p>
+                                    <p>One skewer of beef kabob & chicken breast kabob. Served with Persian rice,
+                                        grilled tomato, bell pepper & onion.</p>
                                 </div>
                                 </br>
                                 <div class="item">
@@ -396,7 +414,8 @@ Menu Start
                                         <div class="border-bottom"></div>
                                         <span>$ 13.99</span>
                                     </div>
-                                    <p>One skewer of ground beef kabob & chunks of Ribeye beef kabob. Served with Persian rice, grilled tomato, bell pepper & onion.</p>
+                                    <p>One skewer of ground beef kabob & chunks of Ribeye beef kabob. Served with
+                                        Persian rice, grilled tomato, bell pepper & onion.</p>
                                 </div>
                                 </br>
                                 <div class="item">
@@ -405,7 +424,8 @@ Menu Start
                                         <div class="border-bottom"></div>
                                         <span>$ 13.99</span>
                                     </div>
-                                    <p>Filets of beef and chicken kabob. Served with Persian rice, grilled tomato, bell peppers & onion.</p>
+                                    <p>Filets of beef and chicken kabob. Served with Persian rice, grilled tomato, bell
+                                        peppers & onion.</p>
                                 </div>
                                 </br>
                                 <div class="item">
@@ -414,7 +434,8 @@ Menu Start
                                         <div class="border-bottom"></div>
                                         <span>$ 15.99</span>
                                     </div>
-                                    <p>Half portion of lamb chunk, beef sirlion, served with Persian rice, grilled tomato, onion & bell pepper.</p>
+                                    <p>Half portion of lamb chunk, beef sirlion, served with Persian rice, grilled
+                                        tomato, onion & bell pepper.</p>
                                 </div>
                                 </br>
                                 <div class="item">
@@ -423,7 +444,8 @@ Menu Start
                                         <div class="border-bottom"></div>
                                         <span>$ 15.99</span>
                                     </div>
-                                    <p>Chicken breast filet, filet kabob and one skewer of ground beef. Served with rice, grilled tomato, bell pepper & onion.</p>
+                                    <p>Chicken breast filet, filet kabob and one skewer of ground beef. Served with
+                                        rice, grilled tomato, bell pepper & onion.</p>
                                 </div>
                             </li>
                         </ul>
@@ -443,7 +465,8 @@ Menu Start
                                         <div class="border-bottom"></div>
                                         <span>$ 12.99</span>
                                     </div>
-                                    <p>Sautéed with olive oil and veggies, served with special sweet chili sauce & rice.</p>
+                                    <p>Sautéed with olive oil and veggies, served with special sweet chili sauce &
+                                        rice.</p>
                                 </div>
                                 </br>
                                 <div class="item">
@@ -452,7 +475,8 @@ Menu Start
                                         <div class="border-bottom"></div>
                                         <span>$ 13.99</span>
                                     </div>
-                                    <p>Served with Persian rice, grilled tomato, bell pepper, zuccini, squash & onion.</p>
+                                    <p>Served with Persian rice, grilled tomato, bell pepper, zuccini, squash &
+                                        onion.</p>
                                 </div>
                                 </br>
                                 <div class="item">
@@ -461,7 +485,8 @@ Menu Start
                                         <div class="border-bottom"></div>
                                         <span>$ 12.99</span>
                                     </div>
-                                    <p>Served with sautéed veggies, served with special sweet chili sauce & Persian rice.</p>
+                                    <p>Served with sautéed veggies, served with special sweet chili sauce & Persian
+                                        rice.</p>
                                 </div>
                             </li>
                         </ul>
@@ -482,7 +507,8 @@ Menu Start
                                         <div class="border-bottom"></div>
                                         <span>$ 5.99</span>
                                     </div>
-                                    <p>Slices of chicken breast, wrapped in pita bread. Served with lettuce tomato, pickle & house garlic sauce.</p>
+                                    <p>Slices of chicken breast, wrapped in pita bread. Served with lettuce tomato,
+                                        pickle & house garlic sauce.</p>
                                 </div>
                                 </br>
                                 <div class="item">
@@ -491,16 +517,18 @@ Menu Start
                                         <div class="border-bottom"></div>
                                         <span>$ 5.99</span>
                                     </div>
-                                    <p>Slices of succulent lamb gyro, wrapped in pita bread served with tomato, pickle, and house sauce.</p>
+                                    <p>Slices of succulent lamb gyro, wrapped in pita bread served with tomato, pickle,
+                                        and house sauce.</p>
                                 </div>
-                            </br>
+                                </br>
                                 <div class="item">
                                     <div class="item-title">
                                         <h2>Beef Gyro</h2>
                                         <div class="border-bottom"></div>
                                         <span>$ 5.99</span>
                                     </div>
-                                    <p>One skewer of ground beef kabob, wrapped in pita bread. Served with lettuce tomato, pickle & house garlic sauce.</p>
+                                    <p>One skewer of ground beef kabob, wrapped in pita bread. Served with lettuce
+                                        tomato, pickle & house garlic sauce.</p>
                                 </div>
                                 </br>
                                 <div class="item">
@@ -509,7 +537,8 @@ Menu Start
                                         <div class="border-bottom"></div>
                                         <span>$ 5.99</span>
                                     </div>
-                                    <p>Fried grounded chick peas, wrapped in pita bread. Served with lettuce tomato, pickle & house garlic sauce.</p>
+                                    <p>Fried grounded chick peas, wrapped in pita bread. Served with lettuce tomato,
+                                        pickle & house garlic sauce.</p>
                                 </div>
                                 </br>
                             </li>
@@ -539,7 +568,8 @@ Menu Start
                                         <div class="border-bottom"></div>
                                         <span>$ 9.99</span>
                                     </div>
-                                    <p>Slices of grilled yellow squash, zuccini, tomato, onion, bell pepper. Served with Persian rice & garlic sauce.</p>
+                                    <p>Slices of grilled yellow squash, zuccini, tomato, onion, bell pepper. Served with
+                                        Persian rice & garlic sauce.</p>
                                 </div>
                                 </br>
                                 <div class="item">
@@ -548,7 +578,8 @@ Menu Start
                                         <div class="border-bottom"></div>
                                         <span>$ 9.99</span>
                                     </div>
-                                    <p>Three fried grounded chick peas, served with hummus, Persian rice, lettuce, tomato & pita bread.</p>
+                                    <p>Three fried grounded chick peas, served with hummus, Persian rice, lettuce,
+                                        tomato & pita bread.</p>
                                 </div>
                                 </br>
                                 <div class="item">
@@ -576,7 +607,8 @@ Menu Start
                                         <div class="border-bottom"></div>
                                         <span>$ 6.99</span>
                                     </div>
-                                    <p>1 skewer of ground chicken koobideh kabob served with Persian rice & grilled tomato.</p>
+                                    <p>1 skewer of ground chicken koobideh kabob served with Persian rice & grilled
+                                        tomato.</p>
                                 </div>
                                 </br>
                                 <div class="item">
@@ -643,7 +675,7 @@ Menu Start
                                     </div>
                                     <p>Diced cucumber, tomato, onion, crushed mint, olive oil & fresh lemon juice.</p>
                                 </div>
-                            </br>
+                                </br>
                                 <div class="item">
                                     <div class="item-title">
                                         <h2>Tabouli</h2>
@@ -659,7 +691,8 @@ Menu Start
                                         <div class="border-bottom"></div>
                                         <span>$ 4.99</span>
                                     </div>
-                                    <p>Iceberg lettuce, slice of tomato with cucumber, topped with fetta cheese with olive oil & lemon juice dressing.</p>
+                                    <p>Iceberg lettuce, slice of tomato with cucumber, topped with fetta cheese with
+                                        olive oil & lemon juice dressing.</p>
                                 </div>
                                 </br>
                                 <div class="item">
@@ -712,7 +745,7 @@ Menu Start
                             <li class="wow fadeInUp" data-wow-duration="150ms" data-wow-delay="50ms">
                                 <div class="item">
                                     <div class="item-title">
-                                        <h2 >Baklava</h2>
+                                        <h2>Baklava</h2>
                                         <div class="border-bottom"></div>
                                         <span>$ 1.75</span>
                                     </div>
@@ -735,20 +768,23 @@ footer  start
     <div class="container">
         <div class="row">
             <div class="col-md-4">
-                <div class="block wow fadeInLeft"  data-wow-delay="100ms">
+                <div class="block wow fadeInLeft" data-wow-delay="100ms">
                     <h3>CONTACT <span>INFO</span></h3>
                     <div class="info">
                         <ul>
                             <li>
-                                <a href="https://favordelivery.com/order-delivery/shish-kabob-cafe-17139"> <img src="images/favor.png" class="favor"></a>
-                            </li><br>
+                                <a href="https://favordelivery.com/order-delivery/shish-kabob-cafe-17139"> <img
+                                        src="images/favor.png" class="favor"></a>
+                            </li>
+                            <br>
                             <li>
                                 <h4><i class="fa fa-phone"></i>Telephone</h4>
-                                <p><a href="tel:1 (281) 492-8782">(281) - 492 - 8782</a> </p></li>
+                                <p><a href="tel:1 (281) 492-8782">(281) - 492 - 8782</a></p></li>
                             <br>
                             <li>
                                 <h4><i class="fa fa-map-marker"></i>Address</h4>
-                                <p><a href="https://goo.gl/maps/F7fv1nqvkWz">19965 Katy Freeway, Houston, TX 77094</a></p>
+                                <p><a href="https://goo.gl/maps/F7fv1nqvkWz">19965 Katy Freeway, Houston, TX 77094</a>
+                                </p>
                             </li>
                             <li>
                                 <h4><i class="fa fa-envelope"></i>E-Mail</h4>
@@ -798,11 +834,39 @@ footer  start
                             </li>
                         </ul>
                     </div>
+                    <!--begin meats section-->
+                    <!--end meats section-->
                 </div>
             </div>
-            <!-- .col-md-4 close -->
-        </div><!-- .row close -->
-    </div><!-- .containe close -->
+
+            <div class="block wow fadeInLeft" data-wow-delay="100ms">
+                <h3>GET IT IN <span>BULK</span></h3>
+
+
+                <ul>
+                    <div class="item-title">
+                        <h2>Falafel </h2>
+                    </div>
+                    <p>$ .75 per piece</p>
+                    <br>
+                    <div class="item-title">
+                        <h2>Lamb Gyro Meat</h2>
+                    </div>
+                    <p>$ 15.00 per lb</p>
+                    <br>
+                    <div class="item-title">
+                        <h2>Chicken Kabob</h2>
+                    </div>
+                    <p>$ 15.00 per lb</p>
+                    <br>
+                    <div class="item-title">
+                        <h2>Garlic Sauce</h2></div>
+                    <p>$ 10.00 per lb</p>
+                    <br>
+                </ul>
+                <!-- .col-md-4 close -->
+            </div><!-- .row close -->
+        </div><!-- .containe close -->
 </section><!-- #footer close -->
 <!--
 footer-bottom  start
@@ -812,7 +876,8 @@ footer-bottom  start
         <div class="row">
             <div class="col-md-12 col-sm-12">
                 <div class="block">
-                    <p>Copyright &copy; 2018 - All Rights Reserved. <br> Designed and Developed By <a href="https://www.ahmermalik.com">Ahmer Malik</a></p>
+                    <p>Copyright &copy; 2018 - All Rights Reserved. <br> Designed and Developed By <a
+                            href="https://www.ahmermalik.com">Ahmer Malik</a></p>
                 </div>
             </div>
         </div>
