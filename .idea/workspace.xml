@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3ac35bab-2b63-4d4a-b79d-44081583b7ec" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fullmenu.html" beforeDir="false" afterPath="$PROJECT_DIR$/fullmenu.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -16,7 +17,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="441">
@@ -29,11 +30,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="fullmenu.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="fullmenu.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/fullmenu.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="11985">
-              <caret line="799" column="33" selection-start-line="799" selection-start-column="33" selection-end-line="799" selection-end-column="33" />
+            <state relative-caret-position="471">
+              <caret line="108" column="79" selection-start-line="108" selection-start-column="79" selection-end-line="108" selection-end-column="79" />
             </state>
           </provider>
         </entry>
@@ -101,8 +102,8 @@
         <option value="$PROJECT_DIR$/css/main.css" />
         <option value="$PROJECT_DIR$/shishkabob/rndtest.html" />
         <option value="$PROJECT_DIR$/rndtest.html" />
-        <option value="$PROJECT_DIR$/fullmenu.html" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/fullmenu.html" />
       </list>
     </option>
   </component>
@@ -123,10 +124,10 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="152" />
-    <option name="y" value="22" />
-    <option name="width" value="1205" />
-    <option name="height" value="878" />
+    <option name="x" value="15" />
+    <option name="y" value="63" />
+    <option name="width" value="1425" />
+    <option name="height" value="807" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -223,12 +224,13 @@
       <workItem from="1529947941243" duration="362000" />
       <workItem from="1530172782217" duration="450000" />
       <workItem from="1530482803886" duration="78000" />
-      <workItem from="1530647648910" duration="217000" />
+      <workItem from="1530647648910" duration="242000" />
+      <workItem from="1530648148749" duration="15000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="105438000" />
+    <option name="totallyTimeSpent" value="105478000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -247,12 +249,12 @@
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32950193" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5024665" side_tool="true" weight="0.29383314" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.49753347" visible="true" weight="0.24606061" />
-      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -264,19 +266,19 @@
     <layout-to-restore>
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
       <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.22057787" />
       <window_info id="Structure" order="2" weight="0.25" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="9" />
-      <window_info anchor="bottom" id="Version Control" order="1" />
       <window_info anchor="bottom" id="Run" order="5" />
-      <window_info anchor="bottom" id="Message" order="3" />
+      <window_info anchor="bottom" id="Find" order="4" />
       <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
       <window_info anchor="bottom" id="Terminal" order="2" sideWeight="0.49753347" visible="true" weight="0.29383314" />
       <window_info anchor="bottom" id="Event Log" order="0" sideWeight="0.5024665" side_tool="true" visible="true" weight="0.29383314" />
-      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="1" />
+      <window_info anchor="bottom" id="Message" order="3" />
       <window_info id="Favorites" order="0" side_tool="true" />
     </layout-to-restore>
   </component>
@@ -430,13 +432,6 @@
     <entry file="file://$PROJECT_DIR$/images/header3.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/fullmenu.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="11985">
-          <caret line="799" column="33" selection-start-line="799" selection-start-column="33" selection-end-line="799" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="441">
@@ -445,6 +440,13 @@
             <marker date="1530647865779" expanded="true" signature="9230:9301" ph="..." />
             <marker date="1530647865779" expanded="true" signature="9799:9900" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fullmenu.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="471">
+          <caret line="108" column="79" selection-start-line="108" selection-start-column="79" selection-end-line="108" selection-end-column="79" />
         </state>
       </provider>
     </entry>
