@@ -20,11 +20,11 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="278" column="118" selection-start-line="278" selection-start-column="118" selection-end-line="278" selection-end-column="118" />
+            <state relative-caret-position="458">
+              <caret line="31" column="46" lean-forward="true" selection-start-line="31" selection-start-column="46" selection-end-line="31" selection-end-column="46" />
               <folding>
-                <marker date="1530482822678" expanded="true" signature="9215:9286" ph="..." />
-                <marker date="1530482822678" expanded="true" signature="9784:9885" ph="..." />
+                <marker date="1530647801355" expanded="true" signature="9210:9281" ph="..." />
+                <marker date="1530647801355" expanded="true" signature="9779:9880" ph="..." />
               </folding>
             </state>
           </provider>
@@ -123,7 +123,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="x" value="152" />
     <option name="y" value="22" />
     <option name="width" value="1205" />
@@ -223,12 +223,13 @@
       <workItem from="1529905031287" duration="797000" />
       <workItem from="1529947941243" duration="362000" />
       <workItem from="1530172782217" duration="450000" />
-      <workItem from="1530482803886" duration="19000" />
+      <workItem from="1530482803886" duration="78000" />
+      <workItem from="1530647648910" duration="155000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="105162000" />
+    <option name="totallyTimeSpent" value="105376000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -240,17 +241,17 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="152" y="22" width="1205" height="878" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20861487" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2085976" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32950193" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5024665" side_tool="true" weight="0.29383314" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49753347" visible="true" weight="0.24711908" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.49753347" visible="true" weight="0.24606061" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -264,19 +265,19 @@
     <layout-to-restore>
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
       <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.22057787" />
       <window_info id="Structure" order="2" weight="0.25" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="9" />
+      <window_info anchor="bottom" id="Version Control" order="1" />
       <window_info anchor="bottom" id="Run" order="5" />
-      <window_info anchor="bottom" id="Find" order="4" />
+      <window_info anchor="bottom" id="Message" order="3" />
       <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
       <window_info anchor="bottom" id="Terminal" order="2" sideWeight="0.49753347" visible="true" weight="0.29383314" />
       <window_info anchor="bottom" id="Event Log" order="0" sideWeight="0.5024665" side_tool="true" visible="true" weight="0.29383314" />
-      <window_info anchor="bottom" id="Version Control" order="1" />
-      <window_info anchor="bottom" id="Message" order="3" />
+      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="4" />
       <window_info id="Favorites" order="0" side_tool="true" />
     </layout-to-restore>
   </component>
@@ -439,11 +440,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="278" column="118" selection-start-line="278" selection-start-column="118" selection-end-line="278" selection-end-column="118" />
+        <state relative-caret-position="458">
+          <caret line="31" column="46" lean-forward="true" selection-start-line="31" selection-start-column="46" selection-end-line="31" selection-end-column="46" />
           <folding>
-            <marker date="1530482822678" expanded="true" signature="9215:9286" ph="..." />
-            <marker date="1530482822678" expanded="true" signature="9784:9885" ph="..." />
+            <marker date="1530647801355" expanded="true" signature="9210:9281" ph="..." />
+            <marker date="1530647801355" expanded="true" signature="9779:9880" ph="..." />
           </folding>
         </state>
       </provider>
