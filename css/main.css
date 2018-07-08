@@ -572,6 +572,10 @@ nav .block .navbar-default .navbar-nav > .active > a:hover:before {
   transition: .3s all;
 }
 
+/*--
+    Contact us form
+--*/
+
 .contactform {
   text-align: center;
   font-size: 15px;
@@ -579,6 +583,10 @@ nav .block .navbar-default .navbar-nav > .active > a:hover:before {
   opacity: 0.9;
 
 }
+
+/*--
+    Thank you page
+--*/
 
 .thanks{
   text-align: center;
