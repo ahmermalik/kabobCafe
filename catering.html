@@ -129,3 +129,43 @@ Header start
             </div><!-- .row close -->
         </div><!-- .container close -->
     </nav><!-- header close -->
+
+
+
+
+
+    <!--
+footer-bottom  start
+============================= -->
+<footer id="footer-bottom">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 col-sm-12">
+                <div class="block">
+                    <p>Copyright &copy; 2018 - All Rights Reserved. <br> Designed and Developed By <a href="https://www.ahmermalik.com"
+                            onclick="trackOutboundLink('https://www.ahmermalik.com'); return false;">Ahmer Malik</a></p>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+</body>
+<script>
+function emptyForm() {
+    var x = document.getElementById("msg").value;
+    var y = document.getElementById("contact-name").value;
+    var z = document.getElementById("contact-email").value;
+    if (x == "") {
+        alert("What's your message?");
+        return false;
+    } else if (y == "") {
+        alert("What's your name?");
+        return false;
+    } else if (z == "") {
+        alert("What's your e-mail?");
+        return false;
+    };
+}
+</script>
+
+</html>
