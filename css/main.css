@@ -599,3 +599,13 @@ nav .block .navbar-default .navbar-nav > .active > a:hover:before {
 .thankspadding{
   padding: 315px 0px;
 }
+
+/* Catering Page */
+.paragraph-structure{
+  text-align:center;
+}
+
+.img-size{
+  height: auto;
+  width: 50%;
+}
