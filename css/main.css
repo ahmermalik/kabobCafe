@@ -136,6 +136,10 @@ a:active {
 .title span {
   color: #FF5333;
 }
+
+.center{
+  text-align: center;
+}
 .before-border {
   content: "";
   position: absolute;
