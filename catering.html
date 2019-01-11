@@ -197,7 +197,7 @@ Slider start
     </div>
 
     <div class="col-md-8"> <img class="img-size" src="images/photo/cateredfood1.jpg"  alt=" Grilled Veggies Shish Kabob Katy"></img></div>
-
+    <div><button onClick="cateringDone()"></button></div>
 
     <!-- CONTACT US  start
 ============================= -->
@@ -227,7 +227,7 @@ Slider start
 
                                     <label>Message <textarea class="form-control" name="message" id="msg" style="margin: 0px; height: 121px; width: 339px;"></textarea></label>
                                 </div>
-                                <button onClick="return emptyForm()" class="btncolor btn btn-default wow bounceIn" type="submit">Send
+                                <button type="button" onClick="return emptyForm()" class="btncolor btn btn-default wow bounceIn" type="submit">Send
                                 </button>
 
                             </form>
@@ -272,6 +272,12 @@ footer-bottom  start
             alert("What's your e-mail?");
             return false;
         };
+    }
+
+
+    function cateringDone(){
+        let todayDate = newDate();
+        console.log(newDate);
     }
 </script>
 
