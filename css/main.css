@@ -612,5 +612,10 @@ nav .block .navbar-default .navbar-nav > .active > a:hover:before {
 
 .slider-size{
   height: auto;
-  width: 75%;
+  width: 100%;
+}
+
+.slider-padding{
+  padding-left:50px;
+  padding-right:50px;
 }
