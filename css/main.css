@@ -619,3 +619,7 @@ nav .block .navbar-default .navbar-nav > .active > a:hover:before {
   padding-left:50px;
   padding-right:50px;
 }
+
+.story-padding{
+  padding: 5px 5px 5px 5px;
+}
