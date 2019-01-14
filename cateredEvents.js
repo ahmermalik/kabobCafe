@@ -15,7 +15,9 @@ getEventsDone = (arr, month) => {
       totalEventsThisYear += arr[i];
       
     }
-    return [totalEventsThisYear + eventsDoneLastTwentyFourYears, totalEventsThisYear];
+    let numOfEvents = [totalEventsThisYear + eventsDoneLastTwentyFourYears, totalEventsThisYear];
+    
+    resultsDiv.innerHTML += numOfEvents;
 }
 console.log(getEventsDone([6, 5, 4, 7, 4, 8, 6, 5, 4, 7, 3, 5], month));
 
