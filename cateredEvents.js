@@ -23,6 +23,6 @@ getEventsDone = (arr, month) => {
     resultsDiv1.innerHTML += numOfEventsTotal;
     resultsDiv2.innerHTML += numOfEventsThisYear;
 }
-getEventsDone([6, 5, 4, 7, 4, 8, 6, 5, 4, 7, 3, 5], month);
+getEventsDone([11, 7, 9, 7, 8, 6, 10, 6, 5, 8, 8, 9], month);
 
 //events as of 12/31/2018

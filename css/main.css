@@ -603,6 +603,7 @@ nav .block .navbar-default .navbar-nav > .active > a:hover:before {
 /* Catering Page */
 .paragraph-structure{
   text-align:center;
+  padding: 100px 50px 75px 50px;
 }
 
 .img-size{
@@ -621,7 +622,7 @@ nav .block .navbar-default .navbar-nav > .active > a:hover:before {
 }
 
 .story-padding{
-  padding: 5px 5px 5px 5px;
+  padding: 20px 25px 25px 20px;
 }
 
 .img-size-catering-row{
