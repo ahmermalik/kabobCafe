@@ -25,4 +25,4 @@ getEventsDone = (arr, month) => {
 }
 getEventsDone([6, 5, 4, 7, 4, 8, 6, 5, 4, 7, 3, 5], month);
 
-//events as of 12/30/2018
+//events as of 12/31/2018

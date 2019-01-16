@@ -623,3 +623,8 @@ nav .block .navbar-default .navbar-nav > .active > a:hover:before {
 .story-padding{
   padding: 5px 5px 5px 5px;
 }
+
+.img-size-catering-row{
+  height: auto;
+  width: 75%;
+}
