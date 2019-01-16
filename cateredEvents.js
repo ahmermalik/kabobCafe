@@ -10,7 +10,7 @@ let month = todayDate.getMonth();
 
 
 getEventsDone = (arr, month) => {
-    const eventsDoneLastTwentyFourYears = 1440;
+    const eventsDoneLastTwentyFourYears = 2508;
     let totalEventsThisYear = 0;
 
     for (let i = 0; i < month+1; i++){
