@@ -1,7 +1,7 @@
 //find the amount of catered events based on today's date.
 //shish kabob does about 6 catered event per month
 
-let resultsDiv1 = document.getElementById('catered-numbertotal'); //(in the html file do cateredevents.innerhtml= getEventsDone())
+let resultsDiv1 = document.getElementById('catered-numbertotal');
 let resultsDiv2 = document.getElementById('catered-numberthisyear');
 
 
