@@ -1,0 +1,84 @@
+
+# Website Redesign Prompt for Shish Kabob Katy
+
+## ✅ Project Overview
+
+**Project:** Website Redesign for "Shish Kabob Katy"  
+**Location:** Katy, Texas  
+**Goal:** Redesign and modernize the website with a fresh, delicious, and inviting aesthetic using the provided content files.
+
+---
+
+## 📝 Objective
+
+Redesign and modernize the website for a Persian restaurant named **Shish Kabob Katy**, located in **Katy, Texas**. The new website should reflect a **fresh, delicious, and inviting aesthetic**, with a **mobile-friendly and visually appealing design**. It should extract data from the attached files (uploaded separately) and incorporate all provided details.
+
+---
+
+## 📄 Files Provided
+
+Use the uploaded files to extract:
+- Full **menu items** and **prices**
+- **Contact information**
+- **Address**
+- All **embedded URLs** (social media, delivery platforms, etc.)
+
+These should be cleanly integrated into the new site design.
+
+---
+
+## 💡 Design Guidelines
+
+- **Modern and elegant design**, inspired by Persian culture and cuisine (use warm, rich colors like saffron, pomegranate red, and charcoal)
+- Use **mouth-watering food imagery** (can use royalty-free placeholders for now)
+- Ensure the site is **responsive**, fast, and SEO-friendly
+- **Highlight dishes** such as kebabs, saffron rice, grilled meats, etc.
+- Emphasize **authenticity, taste, and freshness**
+
+---
+
+## 📑 Site Structure
+
+### 1. Home Page
+- Hero banner with a delicious-looking image and tagline
+- Brief intro about the restaurant
+- Highlight popular dishes
+
+### 2. Menu Page
+- Dynamically built using data extracted from uploaded menu file
+- Clean and categorized (e.g., Appetizers, Entrees, Combos, Drinks)
+- Prices next to each item
+
+### 3. About Us
+- A short history of Shish Kabob Katy
+- Philosophy on food and hospitality
+
+### 4. Contact Page
+- Extract and display phone number, email, and full address
+- Embedded Google Map for the location
+- Contact form
+
+### 5. Order/Links Page
+- Include all embedded URLs (Uber Eats, DoorDash, social links, etc.)
+- Each URL should be styled with a button or tile design
+
+---
+
+## 🔧 Tech Preferences (if Replit needs guidance)
+
+- Use **HTML + Tailwind CSS** or **React + Tailwind** for UI
+- Optionally add **Framer Motion** or subtle animations for polish
+- No backend needed for now (static site is fine)
+- Optionally host via Replit’s web hosting
+
+---
+
+## ✅ Output Expected
+
+- A complete, modernized website with:
+  - Clean UI
+  - Extracted and structured menu
+  - Accurate contact/address
+  - Working links
+  - Mobile-friendly design
+- Zip or Git repo with all source files

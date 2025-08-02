@@ -1,0 +1,143 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Open+Sans:wght@300;400;500;600&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: hsl(0, 0%, 100%);
+  --foreground: hsl(38, 70, 83);
+  --muted: hsl(60, 4.8%, 95.9%);
+  --muted-foreground: hsl(25, 5.3%, 44.7%);
+  --popover: hsl(0, 0%, 100%);
+  --popover-foreground: hsl(38, 70, 83);
+  --card: hsl(0, 0%, 100%);
+  --card-foreground: hsl(38, 70, 83);
+  --border: hsl(20, 5.9%, 90%);
+  --input: hsl(20, 5.9%, 90%);
+  --primary: hsl(207, 90%, 54%);
+  --primary-foreground: hsl(211, 100%, 99%);
+  --secondary: hsl(60, 4.8%, 95.9%);
+  --secondary-foreground: hsl(24, 9.8%, 10%);
+  --accent: hsl(60, 4.8%, 95.9%);
+  --accent-foreground: hsl(24, 9.8%, 10%);
+  --destructive: hsl(0, 84.2%, 60.2%);
+  --destructive-foreground: hsl(60, 9.1%, 97.8%);
+  --ring: hsl(38, 70, 83);
+  --radius: 0.5rem;
+  
+  /* Persian Color Palette */
+  --saffron: hsl(34, 88%, 67%);
+  --pomegranate: hsl(12, 72%, 61%);
+  --persian: hsl(171, 55%, 37%);
+  --charcoal: hsl(195, 42%, 24%);
+  --cream: hsl(48, 47%, 95%);
+}
+
+.dark {
+  --background: hsl(240, 10%, 3.9%);
+  --foreground: hsl(0, 0%, 98%);
+  --muted: hsl(240, 3.7%, 15.9%);
+  --muted-foreground: hsl(240, 5%, 64.9%);
+  --popover: hsl(240, 10%, 3.9%);
+  --popover-foreground: hsl(0, 0%, 98%);
+  --card: hsl(240, 10%, 3.9%);
+  --card-foreground: hsl(0, 0%, 98%);
+  --border: hsl(240, 3.7%, 15.9%);
+  --input: hsl(240, 3.7%, 15.9%);
+  --primary: hsl(207, 90%, 54%);
+  --primary-foreground: hsl(211, 100%, 99%);
+  --secondary: hsl(240, 3.7%, 15.9%);
+  --secondary-foreground: hsl(0, 0%, 98%);
+  --accent: hsl(240, 3.7%, 15.9%);
+  --accent-foreground: hsl(0, 0%, 98%);
+  --destructive: hsl(0, 62.8%, 30.6%);
+  --destructive-foreground: hsl(0, 0%, 98%);
+  --ring: hsl(240, 4.9%, 83.9%);
+  --radius: 0.5rem;
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply font-sans antialiased bg-background text-foreground;
+    font-family: 'Open Sans', sans-serif;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Inter', sans-serif;
+  }
+}
+
+@layer utilities {
+  .persian-pattern {
+    background-image: radial-gradient(circle at 1px 1px, rgba(244, 162, 97, 0.1) 1px, transparent 0);
+    background-size: 20px 20px;
+  }
+  
+  .hero-overlay {
+    background: linear-gradient(135deg, rgba(38, 70, 83, 0.8) 0%, rgba(231, 111, 81, 0.6) 100%);
+  }
+  
+  .menu-card {
+    transition: all 0.3s ease;
+    border: 1px solid rgba(244, 162, 97, 0.2);
+  }
+  
+  .menu-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
+    border-color: rgba(244, 162, 97, 0.4);
+  }
+  
+  .scroll-smooth {
+    scroll-behavior: smooth;
+  }
+  
+  .bg-saffron {
+    background-color: hsl(var(--saffron));
+  }
+  
+  .bg-pomegranate {
+    background-color: hsl(var(--pomegranate));
+  }
+  
+  .bg-persian {
+    background-color: hsl(var(--persian));
+  }
+  
+  .bg-charcoal {
+    background-color: hsl(var(--charcoal));
+  }
+  
+  .bg-cream {
+    background-color: hsl(var(--cream));
+  }
+  
+  .text-saffron {
+    color: hsl(var(--saffron));
+  }
+  
+  .text-pomegranate {
+    color: hsl(var(--pomegranate));
+  }
+  
+  .text-persian {
+    color: hsl(var(--persian));
+  }
+  
+  .text-charcoal {
+    color: hsl(var(--charcoal));
+  }
+  
+  .border-saffron {
+    border-color: hsl(var(--saffron));
+  }
+  
+  .border-pomegranate {
+    border-color: hsl(var(--pomegranate));
+  }
+}

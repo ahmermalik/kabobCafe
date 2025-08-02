@@ -1,0 +1,88 @@
+Category,Item,Price,Description
+Appetizers 🍲,Hummus,5.99,"Fine blended chickpeas, sesame seed paste, garlic, lemon juice, and olive oil,
+                                        served with 1 pita bread."
+Appetizers 🍲,Eggplant Dip,6.99,"Warm roasted eggplant mixed with sautéed onions, garlic and crusted mint. Topped
+                                        with yogurt & comes with 1 pita bread."
+Appetizers 🍲,Grape Leaves,4.99,"3 grape leaves stuffed with rice, served with garlic sauce."
+Appetizers 🍲,Fetacheese,7.99,Served with pita bread.
+Appetizers 🍲,Kibi,3.5,
+Appetizers 🍲,Fried Mushroom,7.99,Freshly battered and fried.
+Appetizers 🍲,Fried Zucchini,7.99,Freshly battered and fried.
+Appetizers 🍲,Tah Dig,1.99,Bottom of the pan crusted rice.
+Salads 🥗,Lamb Gyro Salad,14.99,"Slice of lamb, Iceberg lettuce, slice of tomato with cucumber, topped with fetta
+                                        cheese, olive oil & lemon juice dressing."
+Salads 🥗,Beef Filet Kabob Salad,18.99,"Tender chunks of beef ribeye with grilled tomato, bell pepper, onion & garden
+                                        salad."
+Salads 🥗,Chicken Breast Kabob Salad,14.99,"Juicy chunks of chicken breast with grilled tomato, bell pepper, onion & garden
+                                        salad."
+Entrées 🍴,Koobideh Kabob,13.99,"Two skewers of seasoned, juicy ground beef kabob. Served with Persian rice &
+                                        grilled tomatoes."
+Entrées 🍴,Chicken Koobideh,13.99,"Two skewers of ground chicken kabob. Served with Persian rice & grilled
+                                        tomatoes."
+Entrées 🍴,Ground Chicken & Ground Beef Kabob,13.99,"One skewer of ground beef kabob & one skewer of ground chicken kabob with Persian
+                                        rice & grilled tomatoes."
+Entrées 🍴,Chicken Breast Kabob,13.99,"Grilled chicken breast with grilled tomato, bell pepper, & onion. Served with
+                                        Persian rice."
+Entrées 🍴,Beef Shish Kabob Filet,17.99,"Tender chunks of beef ribeye with grilled tomato, bell pepper, onion & Persian
+                                        rice."
+Entrées 🍴,Lamb Kabob,18.99,"Chunk of tender lamb served with Persian rice, grilled tomato, bell pepper,
+                                        zucchini, squash & onion."
+Entrées 🍴,Lamb Shank,17.99,Shank of lamb cooked and served in a homemade tomato sauce & rice.
+Entrées 🍴,Chicken & Lamb Gyro Plate,16.99,"Slices of chicken, lamb with garlic sauce on top, hummus, Persian rice & pita
+                                        bread."
+Entrées 🍴,Lamb Gyro Plate,13.99,"Slices of lamb gyro, hummus, and pita with garlic sauce & Persian rice."
+Entrées 🍴,Chicken Showarma Plate,13.99,"Slices of chicken breast, topped with garlic sauce, with a side of hummus, rice &
+                                        pita bread."
+Entrées 🍴,Gheymeh (Chicken) Stew,12.99,"Chunks of chicken breast, yellow split peas, potato, tomato sauce & rice."
+Entrées 🍴,Ghormeh Sabzi (Beef) Stew,13.99,"Chunks of beef, beans, chopped parsley, onion, cilantro, spinach & rice."
+Entrées 🍴,Chicken Soltani Combo,17.99,"One skewer of beef kabob & chicken breast kabob. Served with Persian rice,
+                                        grilled tomato, bell pepper & onion."
+Entrées 🍴,Beef Soltani,19.99,"One skewer of ground beef kabob & chunks of Ribeye beef kabob. Served with
+                                        Persian rice, grilled tomato, bell pepper & onion."
+Entrées 🍴,Chicken-Beef Filet Combo,17.99,"Filets of beef and chicken kabob. Served with Persian rice, grilled tomato, bell
+                                        peppers & onion."
+Entrées 🍴,Lamb & Beef Chunk Filet Kabob,18.99,"Half portion of lamb chunk, beef sirlion, served with Persian rice, grilled
+                                        tomato, onion & bell pepper."
+Entrées 🍴,Everything Combo,20.99,"Chicken breast filet, filet kabob and one skewer of ground beef. Served with
+                                        rice, grilled tomato, bell pepper & onion."
+Seafood 🐟,Tilapia Over Rice,15.99,"Sautéed with olive oil and veggies, served with special sweet chili sauce &
+                                        rice."
+Seafood 🐟,Salmon Kabob,17.99,"Served with Persian rice, grilled tomato, bell pepper, zuccini, squash &
+                                        onion."
+Seafood 🐟,Catfish Over Rice,15.99,"Served with sautéed veggies, served with special sweet chili sauce & Persian
+                                        rice."
+Gyro Wraps 🌯,Chicken Gyro,6.99,"Slices of chicken breast, wrapped in pita bread. Served with lettuce tomato,
+                                        pickle & house garlic sauce."
+Gyro Wraps 🌯,Lamb Gyro Wrap,6.99,"Slices of succulent lamb gyro, wrapped in pita bread served with tomato, pickle,
+                                        and house sauce."
+Gyro Wraps 🌯,Beef Kabob Gyro,6.99,"One skewer of ground beef kabob, wrapped in pita bread. Served with lettuce
+                                        tomato, pickle & house garlic sauce."
+Gyro Wraps 🌯,Falafel Gyro,6.99,"Fried grounded chick peas, wrapped in pita bread. Served with lettuce tomato,
+                                        pickle & house garlic sauce."
+Vegetarian 🥒,Vegetarian Lentil Soup,4.99,"Fresh homemade brown lentils with onions, parsley, garlic."
+Vegetarian 🥒,Veggie Kabob,13.99,"Slices of grilled yellow squash, zuccini, tomato, onion, bell pepper. Served with
+                                        Persian rice & garlic sauce."
+Vegetarian 🥒,Falafel Plate,13.99,"Three fried grounded chick peas, served with hummus, Persian rice, lettuce,
+                                        tomato & pita bread."
+Vegetarian 🥒,Veggie Plate,13.99,"Hummus, eggplant dip, 3 grape leaves, served with Persian rice, & pita bread."
+Kid's Menu 🍟,Kid's Chicken Koobideh,7.99,"1 skewer of ground chicken koobideh kabob served with Persian rice & grilled
+                                        tomato."
+Kid's Menu 🍟,Kid's Beef Kabob,7.99,"One skewer of seasoned, juicy ground beef kabob. Served with Persian rice and
+                                        grilled tomatoes."
+Kid's Menu 🍟,Kid's Chicken Kabob,7.99,"Juicy chicken served with Persian rice, grilled onion, bell pepper & tomato."
+Kid's Menu 🍟,Chicken Nuggets,5.50,"Three nuggets, served with french fries."
+Kid's Menu 🍟,Small Fries,4.99,
+Kid's Menu 🍟,Large Fries,5.99,
+Fresh Sides  🥗,Shiraz Salad,3.49,"Diced cucumber, tomato, onion, crushed mint, olive oil & fresh lemon juice."
+Fresh Sides  🥗,Tabouli,3.49,"Chopped parsley, onion, tomato, olive oil & fresh lemon juice."
+Fresh Sides  🥗,House Salad,5.99,"Iceberg lettuce, slice of tomato with cucumber, topped with fetta cheese with
+                                        olive oil & lemon juice dressing."
+Fresh Sides  🥗,Yogurt with Cucumber Mint,3.49,Creamy homemade yogurt with diced cucumber & crushed mint.
+Fresh Sides  🥗,Side of Rice,3.99,
+Fresh Sides  🥗,Side of Pita,.99,
+Fresh Sides  🥗,Zeresh or Dill,1.99,
+Dessert 🍪,Baklava,1.75,"Delicious, sweet, traditional dessert to finish your meal."
+Buy in bulk 🤩,Falafel,2.50,By the piece.
+Buy in bulk 🤩,Lamb Gyro Meat,22.99,By the pound.
+Buy in bulk 🤩,Chicken Kabob,22.99,By the pound.
+Buy in bulk 🤩,Garlic Sauce,12.00,By the pound.
