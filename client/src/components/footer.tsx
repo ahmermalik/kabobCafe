@@ -51,7 +51,7 @@ export default function Footer() {
             <h4 className="text-lg font-semibold mb-4 text-saffron">Contact Info</h4>
             <div className="space-y-2 text-gray-200">
               <p>Katy, TX 77094</p>
-              <p>(281) XXX-XXXX</p>
+              <p>(281)-492-8782</p>
               <p>Mon-Sat: 11:00 AM - 9:30 PM</p>
               <p className="text-pomegranate">Sunday: Closed</p>
             </div>

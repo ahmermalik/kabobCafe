@@ -64,7 +64,7 @@ export default function OrderSection() {
               <Phone className="w-8 h-8 text-charcoal" />
             </div>
             <h3 className="text-xl font-semibold mb-2 text-white">Call to Order</h3>
-            <p className="text-white font-semibold">(281) XXX-XXXX</p>
+            <p className="text-white font-semibold">(281)-492-8782</p>
           </div>
         </div>
         
