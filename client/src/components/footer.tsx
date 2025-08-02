@@ -2,7 +2,7 @@ export default function Footer() {
   const scrollToSection = (sectionId: string) => {
     const element = document.getElementById(sectionId);
     if (element) {
-      element.scrollIntoView({ behavior: 'smooth' });
+      element.scrollIntoView({ behavior: "smooth" });
     }
   };
 
@@ -15,40 +15,57 @@ export default function Footer() {
               Shish Kabob <span className="text-saffron">Cafe</span>
             </h3>
             <p className="text-gray-200 mb-4">
-              Serving authentic Persian and Mediterranean cuisine in Katy, Texas since 1994. 
-              Experience the taste of tradition with fresh, halal ingredients.
+              Serving authentic Persian and Mediterranean cuisine in Katy, Texas
+              since 1994. Experience the taste of tradition with fresh, halal
+              ingredients.
             </p>
             <div className="text-persian text-xl">حلال</div>
           </div>
-          
+
           <div>
-            <h4 className="text-lg font-semibold mb-4 text-saffron">Quick Links</h4>
+            <h4 className="text-lg font-semibold mb-4 text-saffron">
+              Quick Links
+            </h4>
             <ul className="space-y-2">
               <li>
-                <button onClick={() => scrollToSection('home')} className="text-gray-200 hover:text-saffron transition-colors">
+                <button
+                  onClick={() => scrollToSection("home")}
+                  className="text-gray-200 hover:text-saffron transition-colors"
+                >
                   Home
                 </button>
               </li>
               <li>
-                <button onClick={() => scrollToSection('menu')} className="text-gray-200 hover:text-saffron transition-colors">
+                <button
+                  onClick={() => scrollToSection("menu")}
+                  className="text-gray-200 hover:text-saffron transition-colors"
+                >
                   Menu
                 </button>
               </li>
               <li>
-                <button onClick={() => scrollToSection('about')} className="text-gray-200 hover:text-saffron transition-colors">
+                <button
+                  onClick={() => scrollToSection("about")}
+                  className="text-gray-200 hover:text-saffron transition-colors"
+                >
                   About
                 </button>
               </li>
               <li>
-                <button onClick={() => scrollToSection('contact')} className="text-gray-200 hover:text-saffron transition-colors">
+                <button
+                  onClick={() => scrollToSection("contact")}
+                  className="text-gray-200 hover:text-saffron transition-colors"
+                >
                   Contact
                 </button>
               </li>
             </ul>
           </div>
-          
+
           <div>
-            <h4 className="text-lg font-semibold mb-4 text-saffron">Contact Info</h4>
+            <h4 className="text-lg font-semibold mb-4 text-saffron">
+              Contact Info
+            </h4>
             <div className="space-y-2 text-gray-200">
               <p>Katy, TX 77094</p>
               <p>(281)-492-8782</p>
@@ -57,9 +74,23 @@ export default function Footer() {
             </div>
           </div>
         </div>
-        
+
         <div className="border-t border-gray-700 mt-8 pt-8 text-center text-gray-200">
-          <p>&copy; 2024 Shish Kabob Cafe Katy. All rights reserved. Proudly serving the Houston community since 1994.</p>
+          <p>
+            &copy; 2025 Shish Kabob Cafe Katy. All rights reserved. Proudly
+            serving the Houston community since 1994.
+          </p>
+          <p>
+            Website built by{" "}
+            <a
+              href="https://ahmermalik.com"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-saffron hover:underline"
+            >
+              Ahmer Malik
+            </a>
+          </p>{" "}
         </div>
       </div>
     </footer>
